@@ -1,10 +1,11 @@
 {
-  "version": "0.0.23",
-  "url": "https://github.com/komponentastudio/remote/releases/download/v0.0.23/Remote-0.0.23-arm64-mac.zip",
-  "releaseDate": "2025-12-10T14:11:06Z",
-  "notes": <h3>🚀 Auto Updates</h3>
+  "version": "0.0.24",
+  "url": "https://github.com/komponentastudio/remote/releases/download/v0.0.24/Remote-0.0.24-arm64-mac.zip",
+  "releaseDate": "2025-12-10T23:03:50Z",
+  "notes": <h3>🛠 Accessibility Fix</h3>
 <ul>
-    <li><b>Automatic OTA</b>: Updates now publish automatically with each release.</li>
-    <li><b>Release notes</b>: The updater shows the latest changelog notes.</li>
+    <li><b>No more loops:</b> Accessibility prompt appears in onboarding only and stops after you allow it.</li>
+    <li><b>Guided setup:</b> Activity step opens the correct System Settings page.</li>
+    <li><b>Stable active apps:</b> Active app recognition waits for permission before polling.</li>
 </ul>
 }
