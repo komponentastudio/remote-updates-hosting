@@ -1,11 +1,11 @@
-version: 0.0.30
+version: 0.0.33
 files:
-  - url: https://github.com/komponentastudio/remote/releases/download/v0.0.30/Remote-0.0.30-arm64-mac.zip
-    sha512: LK6tYyPiAxPPLUPAOzZSkEYRHfFhIdjKWCDmFrUub6icxFZ4K19BD5WxECEWN89gPKlHN0d7Tu807B33JYDiHQ==
-    size: 221840521
-  - url: Remote-0.0.30-arm64.dmg
-    sha512: WlwLPr6rHH/1+bUkGBXIQ+jq3m+5nAdtur7jAfQL2pbtxarRAEZ8WxKw4z+Ydf+PES1eFwobVX6I2Ic0o2jCfQ==
-    size: 231425965
-path: https://github.com/komponentastudio/remote/releases/download/v0.0.30/Remote-0.0.30-arm64-mac.zip
-sha512: LK6tYyPiAxPPLUPAOzZSkEYRHfFhIdjKWCDmFrUub6icxFZ4K19BD5WxECEWN89gPKlHN0d7Tu807B33JYDiHQ==
-releaseDate: '2025-12-12T23:25:39.485Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.33/Remote-0.0.33-arm64-mac.zip
+    sha512: kERfJB59JmawStH5P2sxrdx5NEKLL5neeCIyvZ6uRvC4WZ7c29RBaTAVMQ/aPWNEXn2CRc/6JiizGOI4A6uszA==
+    size: 221840496
+  - url: Remote-0.0.33-arm64.dmg
+    sha512: r+snY8yqF8VH0RyQg7/FdnxQQLkLvQHoJkC7eSFdTVDk4rDLip7e1S2NH898LZcNPZsNQfHH15KVjGH0Umtr8w==
+    size: 231406156
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.33/Remote-0.0.33-arm64-mac.zip
+sha512: kERfJB59JmawStH5P2sxrdx5NEKLL5neeCIyvZ6uRvC4WZ7c29RBaTAVMQ/aPWNEXn2CRc/6JiizGOI4A6uszA==
+releaseDate: '2025-12-12T23:51:27.761Z'
