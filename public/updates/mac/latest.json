@@ -1,6 +1,6 @@
 {
-  "version": "0.0.33",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.33/Remote-0.0.33-arm64-mac.zip",
-  "releaseDate": "2025-12-12T23:51:28.038Z",
-  "notes": "<h3>🚀 Update System Fixed</h3>\n<ul>\n    <li><b>Reliability</b>: Fixed distribution of large update files.</li>\n</ul>"
+  "version": "0.0.35",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.35/Remote-0.0.35-arm64-mac.zip",
+  "releaseDate": "2025-12-13T00:07:20.582Z",
+  "notes": "<h3>🚀 Smoother Updates</h3>\n<ul>\n    <li><b>One-Click Restart</b>: Clicking the update banner now instantly restarts the app.</li>\n    <li><b>Cleaner UI</b>: Removed unnecessary loading indicators.</li>\n</ul>"
 }
