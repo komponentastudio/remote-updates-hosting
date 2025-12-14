@@ -1,6 +1,6 @@
 {
-  "version": "0.0.38",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.38/Remote-0.0.38-arm64-mac.zip",
-  "releaseDate": "2025-12-14T12:52:10.949Z",
-  "notes": "<h3>🚀 Infrastructure</h3>\n<ul>\n    <li><b>Faster Builds</b>: We've upgraded our build infrastructure to process updates faster.</li>\n</ul>"
+  "version": "0.0.39",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.39/Remote-0.0.39-arm64-mac.zip",
+  "releaseDate": "2025-12-14T22:42:55.669Z",
+  "notes": "<h3>🚀 Presence System Upgrade</h3>\n<ul>\n    <li><b>Instant Status</b>: Online/Offline status and room changes now update instantly.</li>\n    <li><b>Reliability</b>: Fixed \"Last active\" bugs and ghost users in rooms.</li>\n    <li><b>Performance</b>: Optimized database usage for faster app response.</li>\n</ul>"
 }
