@@ -1,11 +1,11 @@
-version: 0.0.35
+version: 0.0.36
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.35/Remote-0.0.35-arm64-mac.zip
-    sha512: YZ2pIfQbjlcTEzVZADREw98d33Xvod3UTxpMsXvyOAXYoIrA1MUI/NJBl/m7/wyiro4EwTsI7uyG4lr9sIiKmQ==
-    size: 221840671
-  - url: Remote-0.0.35-arm64.dmg
-    sha512: W5Uc8629ITGVEE4YmBlj6SMkmiEjHkZwU+L0mKK3o/qnQX2oemSKERiuzTXXncUkZl3nXHnYo6+GN/XYcZdBGA==
-    size: 231391072
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.35/Remote-0.0.35-arm64-mac.zip
-sha512: YZ2pIfQbjlcTEzVZADREw98d33Xvod3UTxpMsXvyOAXYoIrA1MUI/NJBl/m7/wyiro4EwTsI7uyG4lr9sIiKmQ==
-releaseDate: '2025-12-13T00:07:20.266Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.36/Remote-0.0.36-arm64-mac.zip
+    sha512: qYqW7Kpajmdvh1I72JwU0ZmxI9XonIzajMTm99rKMxhliAdC/wCLyIMvAG1sCBF+QQqCKdfgg94TUlh81ZOAaw==
+    size: 221844483
+  - url: Remote-0.0.36-arm64.dmg
+    sha512: 4b0hLoQKd78ghyUWGbYKyqerPCW2ezbkVcc1+EPHM+/GvrJa50QGhNz9qNpUE6UgHD9YsjUBXe+dSFyH+TN4vg==
+    size: 231435150
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.36/Remote-0.0.36-arm64-mac.zip
+sha512: qYqW7Kpajmdvh1I72JwU0ZmxI9XonIzajMTm99rKMxhliAdC/wCLyIMvAG1sCBF+QQqCKdfgg94TUlh81ZOAaw==
+releaseDate: '2025-12-14T00:18:40.524Z'
