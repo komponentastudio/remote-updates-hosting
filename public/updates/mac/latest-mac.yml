@@ -1,11 +1,11 @@
 version: 0.0.38
 files:
   - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.38/Remote-0.0.38-arm64-mac.zip
-    sha512: JL9Ds0V3WZTVWpzhYITrR8+iAB6QHxYm77WPRNI7nmI08HsWldB+hgfL0upoT97n5FqPOlXyEyVC6jos2fZvvg==
-    size: 220804934
+    sha512: Pz2UuUoswD4gnwocqojO9cZNdCV2NQvLDIpPH+K5lGiczRSfmHOpArCl1KpONZ5DR6cAy8CFdsmJdLkBQNivbQ==
+    size: 220804922
   - url: Remote-0.0.38-arm64.dmg
-    sha512: 9gJYddUpr6vl7DxGSzXebxpYsypBrdI73f7onoqmYfVAoDMX7EoHWvGBls9zqqff1sNOoqHkeiunj24Qhfr2QQ==
-    size: 230353876
+    sha512: nbB5OH6Y+BsFwBEGQl4IAmoWCANBntH0/7w2xaasqzohlgtTrFcSDaW0B336X02znlaQrO5Ob+zCOT1qCulSlQ==
+    size: 230364970
 path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.38/Remote-0.0.38-arm64-mac.zip
-sha512: JL9Ds0V3WZTVWpzhYITrR8+iAB6QHxYm77WPRNI7nmI08HsWldB+hgfL0upoT97n5FqPOlXyEyVC6jos2fZvvg==
-releaseDate: '2025-12-14T12:35:40.233Z'
+sha512: Pz2UuUoswD4gnwocqojO9cZNdCV2NQvLDIpPH+K5lGiczRSfmHOpArCl1KpONZ5DR6cAy8CFdsmJdLkBQNivbQ==
+releaseDate: '2025-12-14T12:52:10.729Z'
