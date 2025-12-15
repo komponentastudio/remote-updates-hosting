@@ -1,11 +1,13 @@
-version: 0.0.45
+version: 0.0.46
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.45/Remote-0.0.45-arm64-mac.zip
-    sha512: 6Qjy8SCj7dGnXI7OoIM49AV7xqrAP9JA/DWldnhfJ/SuxpSYaxV3b5ztvEZuZpwpibyBPgwvlQ7DbjsmGFT8HA==
-    size: 220810656
-  - url: Remote-0.0.45-arm64.dmg
-    sha512: XYYCmKJorx2zmSqrYxLgY8i/eFZj+dx4LKtPHrYt4ak6aPyp8ZgC+TgU9dyagDDiRuO3pgS9WBuD7OwxqvLCcg==
-    size: 230354218
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.45/Remote-0.0.45-arm64-mac.zip
-sha512: 6Qjy8SCj7dGnXI7OoIM49AV7xqrAP9JA/DWldnhfJ/SuxpSYaxV3b5ztvEZuZpwpibyBPgwvlQ7DbjsmGFT8HA==
-releaseDate: '2025-12-15T13:01:53.833Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.46/Remote-0.0.46-arm64-mac.zip
+    sha512: JwoAhTsZLaI7MtBH1MWrcVQOb8WoKcdScbHUWpeqES6/6ZZsDx7WTvnIrLmIrUNM1P104V7UR+aYAccAJlqDYw==
+    size: 220844173
+  - url: Remote-0.0.46-arm64.dmg
+    sha512: Go3X9DpN+HgIlRlVXe91VK000aSdTC9nYC9xEpulpAG7F/VTWT0a6o0v+9qRApUaBjee0U5tO2x+LqLuM5OazQ==
+    size: 230390105
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.46/Remote-0.0.46-arm64-mac.zip
+sha512: JwoAhTsZLaI7MtBH1MWrcVQOb8WoKcdScbHUWpeqES6/6ZZsDx7WTvnIrLmIrUNM1P104V7UR+aYAccAJlqDYw==
+releaseDate: '2025-12-15T14:36:50.915Z'
+
+releaseNotes: "<h3>🛠️ Developer Tools</h3>\n<ul>\n    <li><b>Physics Playground</b>: Added a new internal tool to fine-tune avatar interactions.</li>\n</ul>"

@@ -1,6 +1,6 @@
 {
-  "version": "0.0.45",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.45/Remote-0.0.45-arm64-mac.zip",
-  "releaseDate": "2025-12-15T13:01:54.107Z",
-  "notes": "<h3>🔐 Permissions Fix</h3>\n<ul>\n    <li><b>Status Fixed</b>: Fixed a bug where permissions showed as \"Denied\" even if you had granted them.</li>\n    <li><b>Check Status</b>: Clicking \"Check Status\" now correctly forces a system check.</li>\n</ul>"
+  "version": "0.0.46",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.46/Remote-0.0.46-arm64-mac.zip",
+  "releaseDate": "2025-12-15T14:36:51.143Z",
+  "notes": "<h3>🛠️ Developer Tools</h3>\n<ul>\n    <li><b>Physics Playground</b>: Added a new internal tool to fine-tune avatar interactions.</li>\n</ul>"
 }
