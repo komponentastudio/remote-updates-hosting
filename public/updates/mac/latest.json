@@ -1,6 +1,6 @@
 {
-  "version": "0.0.39",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.39/Remote-0.0.39-arm64-mac.zip",
-  "releaseDate": "2025-12-14T22:42:55.669Z",
-  "notes": "<h3>🚀 Presence System Upgrade</h3>\n<ul>\n    <li><b>Instant Status</b>: Online/Offline status and room changes now update instantly.</li>\n    <li><b>Reliability</b>: Fixed \"Last active\" bugs and ghost users in rooms.</li>\n    <li><b>Performance</b>: Optimized database usage for faster app response.</li>\n</ul>"
+  "version": "0.0.41",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.41/Remote-0.0.41-arm64-mac.zip",
+  "releaseDate": "2025-12-15T00:13:41.001Z",
+  "notes": "<h3>🔐 Sign-In Fixed</h3>\n<ul>\n    <li><b>Google Login</b>: Fixed an issue where signing in with a standard Google account would fail. Login now securely opens in your default browser.</li>\n</ul>"
 }
