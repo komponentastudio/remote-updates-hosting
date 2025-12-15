@@ -1,6 +1,6 @@
 {
-  "version": "0.0.41",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.41/Remote-0.0.41-arm64-mac.zip",
-  "releaseDate": "2025-12-15T00:13:41.001Z",
-  "notes": "<h3>🔐 Sign-In Fixed</h3>\n<ul>\n    <li><b>Google Login</b>: Fixed an issue where signing in with a standard Google account would fail. Login now securely opens in your default browser.</li>\n</ul>"
+  "version": "0.0.42",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.42/Remote-0.0.42-arm64-mac.zip",
+  "releaseDate": "2025-12-15T10:55:03.638Z",
+  "notes": "<h3>📞 Call & Permissions Fixes</h3>\n<ul>\n    <li><b>Calls Fixed</b>: Fixed a security policy issue that prevented calls from connecting.</li>\n    <li><b>Permissions Check</b>: New \"Permissions\" tab in Settings lets you verify Screen Recording and Accessibility status.</li>\n    <li><b>Calendar Test</b>: You can now test your calendar connection with a \"Test Sync\" button.</li>\n</ul>"
 }
