@@ -1,6 +1,6 @@
 {
-  "version": "0.0.42",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.42/Remote-0.0.42-arm64-mac.zip",
-  "releaseDate": "2025-12-15T10:55:03.638Z",
-  "notes": "<h3>📞 Call & Permissions Fixes</h3>\n<ul>\n    <li><b>Calls Fixed</b>: Fixed a security policy issue that prevented calls from connecting.</li>\n    <li><b>Permissions Check</b>: New \"Permissions\" tab in Settings lets you verify Screen Recording and Accessibility status.</li>\n    <li><b>Calendar Test</b>: You can now test your calendar connection with a \"Test Sync\" button.</li>\n</ul>"
+  "version": "0.0.43",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.43/Remote-0.0.43-arm64-mac.zip",
+  "releaseDate": "2025-12-15T12:37:16.409Z",
+  "notes": "<h3>Team & Invitations Update</h3>\n<ul>\n  <li><strong>Renamed Workspace to Team:</strong> We've renamed \"Workspace\" to \"Team\" to feel less corporate.</li>\n  <li><strong>Better Invitations:</strong> You can now see invited teams in the switcher and join or decline them directly.</li>\n  <li><strong>UI Improvements:</strong> The team switcher now adapts better to your theme settings.</li>\n</ul>"
 }
