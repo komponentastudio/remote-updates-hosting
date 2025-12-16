@@ -1,13 +1,13 @@
-version: 0.0.50
+version: 0.0.51
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.50/Remote-0.0.50-arm64-mac.zip
-    sha512: +okORnyu3uf7odSdswwEguKZ8KtBvl7exk8gB44YANO1pdSdmrrgGhiEGfx8F+5tUTG5RXMVVRyjLa4Yn4G7GA==
-    size: 221036929
-  - url: Remote-0.0.50-arm64.dmg
-    sha512: jYw7nmcER0BMJU8ODsKMMZNsM9CoG2GtKBByF5Wdl0ZRH8tN5WAuCklIXkX0n1P+g0pGL9MDI1IM9bWknXmQJg==
-    size: 230616127
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.50/Remote-0.0.50-arm64-mac.zip
-sha512: +okORnyu3uf7odSdswwEguKZ8KtBvl7exk8gB44YANO1pdSdmrrgGhiEGfx8F+5tUTG5RXMVVRyjLa4Yn4G7GA==
-releaseDate: '2025-12-15T22:17:14.383Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.51/Remote-0.0.51-arm64-mac.zip
+    sha512: tYB6bcGCHh8HLPe/I5gyuvV0fpvFiFGvXgRy5pVUYj+ePGkEskLXFzv1S5AHQu5KXfRL208whXoeWnFHSwHdvQ==
+    size: 221073883
+  - url: Remote-0.0.51-arm64.dmg
+    sha512: XYePUsfqz4KX26scg4XmYdSTzNSzu3/KZ10mOv9LW8Frc0UR+koXtaqP3t78dc8l86ckyIGixO3IZUBcT61Gtg==
+    size: 230588982
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.51/Remote-0.0.51-arm64-mac.zip
+sha512: tYB6bcGCHh8HLPe/I5gyuvV0fpvFiFGvXgRy5pVUYj+ePGkEskLXFzv1S5AHQu5KXfRL208whXoeWnFHSwHdvQ==
+releaseDate: '2025-12-16T11:21:09.212Z'
 
-releaseNotes: "<h3>🛠️ UI Fixes</h3>\n<ul>\n    <li><b>Smoother Entry</b>: Fixed a flicker where the login screen would briefly appear when joining a room.</li>\n</ul>"
+releaseNotes: "<h3>🎉 Social Reactions</h3>\n<ul>\n    <li><b>Express Yourself</b>: Click the new smiley button to send emojis or GIFs!</li>\n    <li><b>Emojis</b>: Show a quick reaction that floats over your video.</li>\n    <li><b>GIFs</b>: Replace your video with a GIF to show your status (like \"brb\" or \"coffee\").</li>\n</ul>"
