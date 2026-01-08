@@ -1,13 +1,13 @@
-version: 0.0.52
+version: 0.0.53
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.52/Remote-0.0.52-arm64-mac.zip
-    sha512: Uc0mOOsFdvGlSA4x9oN9GVNYgrQvfcRWgxYozQUOO9fo3n7NBW+PASVyQUD5EbzN42Zx+w8CLatH8nGAJh+cXg==
-    size: 221076296
-  - url: Remote-0.0.52-arm64.dmg
-    sha512: lLVkLB8ky2wQGUZfNa7LPKm58VC1ruejr3MVmRm5I8ROwHjIf7fy5OuyJebwdgcPx61vwWgnURxN6FC6evLbvg==
-    size: 230625205
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.52/Remote-0.0.52-arm64-mac.zip
-sha512: Uc0mOOsFdvGlSA4x9oN9GVNYgrQvfcRWgxYozQUOO9fo3n7NBW+PASVyQUD5EbzN42Zx+w8CLatH8nGAJh+cXg==
-releaseDate: '2025-12-16T21:56:11.525Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.53/Remote-0.0.53-arm64-mac.zip
+    sha512: haVQ4mTDq3Eit1kdx9xy5SW+cSU6TXQC4xWfcV9hBQwo0EboBAFd1rgRw8GY9P19JKpdoxaXJ7zGvoedAnwQHA==
+    size: 221037997
+  - url: Remote-0.0.53-arm64.dmg
+    sha512: 7Omeor0h4pi7vxy9uStCdVucqFbtQ4L8EL6RN0J4tnBvngGDjUzmtwDE03F8JJUdhl2A80RIUjzjzNo05rQO/g==
+    size: 230589659
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.53/Remote-0.0.53-arm64-mac.zip
+sha512: haVQ4mTDq3Eit1kdx9xy5SW+cSU6TXQC4xWfcV9hBQwo0EboBAFd1rgRw8GY9P19JKpdoxaXJ7zGvoedAnwQHA==
+releaseDate: '2026-01-08T12:36:08.419Z'
 
-releaseNotes: "<h3>📞 Better 1-to-1 Calls</h3>\n<ul>\n    <li><b>Seamless Calling</b>: No more popups! Incoming calls now appear as bubbles directly on your screen.</li>\n    <li><b>Instant Preview</b>: See who's calling before you accept.</li>\n    <li><b>Reliability</b>: Faster connections and cleaner call ending (no more ghost rooms).</li>\n</ul>\n<h3>🛠️ Permissions & UI Fixes</h3>\n<ul>\n    <li><b>Instant Activation</b>: The \"Active App\" indicator now starts working immediately after you grant permission in System Settings, no restart required!</li>\n    <li><b>Correct Sorting</b>: You will now correctly appear at the top of the team list when you are online.</li>\n</ul>"
+releaseNotes: "<h3>📞 Call Fixes</h3>\n<ul>\n    <li><b>Connection Fixed</b>: Fixed a bug that prevented calls from connecting properly.</li>\n    <li><b>Reliability</b>: Calls should now start much faster and reliably.</li>\n</ul>"
