@@ -1,13 +1,13 @@
-version: 0.0.53
+version: 0.0.54
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.53/Remote-0.0.53-arm64-mac.zip
-    sha512: haVQ4mTDq3Eit1kdx9xy5SW+cSU6TXQC4xWfcV9hBQwo0EboBAFd1rgRw8GY9P19JKpdoxaXJ7zGvoedAnwQHA==
-    size: 221037997
-  - url: Remote-0.0.53-arm64.dmg
-    sha512: 7Omeor0h4pi7vxy9uStCdVucqFbtQ4L8EL6RN0J4tnBvngGDjUzmtwDE03F8JJUdhl2A80RIUjzjzNo05rQO/g==
-    size: 230589659
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.53/Remote-0.0.53-arm64-mac.zip
-sha512: haVQ4mTDq3Eit1kdx9xy5SW+cSU6TXQC4xWfcV9hBQwo0EboBAFd1rgRw8GY9P19JKpdoxaXJ7zGvoedAnwQHA==
-releaseDate: '2026-01-08T12:36:08.419Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.54/Remote-0.0.54-arm64-mac.zip
+    sha512: cE5fCX+Ik1rUKGsaqwCH0TMSptv+eXhaeUo2WV+J9YNUuobY9JcJcPxewk6Z77pTGowambub0wjaF37ogMXJcA==
+    size: 221035875
+  - url: Remote-0.0.54-arm64.dmg
+    sha512: FUovbbt6DztuT7f3xttXQ0Y5YWtaHH3yhX8l1yJ61r27eFBXPGD/COSrQOFIw8XpwUFYPo/uAme1xv1Y/hPCvQ==
+    size: 230600376
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.54/Remote-0.0.54-arm64-mac.zip
+sha512: cE5fCX+Ik1rUKGsaqwCH0TMSptv+eXhaeUo2WV+J9YNUuobY9JcJcPxewk6Z77pTGowambub0wjaF37ogMXJcA==
+releaseDate: '2026-01-08T13:53:56.147Z'
 
-releaseNotes: "<h3>📞 Call Fixes</h3>\n<ul>\n    <li><b>Connection Fixed</b>: Fixed a bug that prevented calls from connecting properly.</li>\n    <li><b>Reliability</b>: Calls should now start much faster and reliably.</li>\n</ul>"
+releaseNotes: "<h3>🛠️ Stability Improvements</h3>\n<ul>\n    <li><b>Smoother Calls</b>: Fixed an issue that could cause connection errors when joining/leaving rooms rapidly.</li>\n    <li><b>Error Handling</b>: Better protection against network race conditions.</li>\n</ul>"

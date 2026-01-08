@@ -1,6 +1,6 @@
 {
-  "version": "0.0.53",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.53/Remote-0.0.53-arm64-mac.zip",
-  "releaseDate": "2026-01-08T12:36:08.587Z",
-  "notes": "<h3>📞 Call Fixes</h3>\n<ul>\n    <li><b>Connection Fixed</b>: Fixed a bug that prevented calls from connecting properly.</li>\n    <li><b>Reliability</b>: Calls should now start much faster and reliably.</li>\n</ul>"
+  "version": "0.0.54",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.54/Remote-0.0.54-arm64-mac.zip",
+  "releaseDate": "2026-01-08T13:53:56.326Z",
+  "notes": "<h3>🛠️ Stability Improvements</h3>\n<ul>\n    <li><b>Smoother Calls</b>: Fixed an issue that could cause connection errors when joining/leaving rooms rapidly.</li>\n    <li><b>Error Handling</b>: Better protection against network race conditions.</li>\n</ul>"
 }
