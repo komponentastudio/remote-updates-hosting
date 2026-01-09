@@ -1,6 +1,6 @@
 {
-  "version": "0.0.56",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.56/Remote-0.0.56-arm64-mac.zip",
-  "releaseDate": "2026-01-09T13:05:31.473Z",
+  "version": "0.0.57",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.57/Remote-0.0.57-arm64-mac.zip",
+  "releaseDate": "2026-01-09T13:38:53.178Z",
   "notes": "<p>🚀 <strong>New Update Experience!</strong></p>\n<p>We've completely redesigned how updates work. It's now smoother, more reliable, and yes... it has rainbows! 🌈</p>\n<ul>\n<li>✨ <strong>New UI:</strong> Beautiful new update banner with progress indication.</li>\n<li>🛠️ <strong>Fixes:</strong> Solved an issue where the app wouldn't restart automatically after updating.</li>\n</ul>"
 }

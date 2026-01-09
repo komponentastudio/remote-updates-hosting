@@ -1,13 +1,13 @@
-version: 0.0.56
+version: 0.0.57
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.56/Remote-0.0.56-arm64-mac.zip
-    sha512: j+GsBQ/XIaIN2e68J1f//2OGTIEzS27XY3c/ANZGDf5PssdRYqYYaq9ji+cbg0RV3ma36IHbGWH4W39R+Sosrg==
-    size: 221083440
-  - url: Remote-0.0.56-arm64.dmg
-    sha512: jxJriYratokpqs9KwDz6Yp3kPeIHztqnc9NliFi3KlN2DucVD8CLVDDcrvFqiqnsCGR+4Os1hijpspMUnrccVw==
-    size: 230608986
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.56/Remote-0.0.56-arm64-mac.zip
-sha512: j+GsBQ/XIaIN2e68J1f//2OGTIEzS27XY3c/ANZGDf5PssdRYqYYaq9ji+cbg0RV3ma36IHbGWH4W39R+Sosrg==
-releaseDate: '2026-01-09T13:05:31.153Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.57/Remote-0.0.57-arm64-mac.zip
+    sha512: jGSDv++irco4wL3OOmc4ctSk+KRQDG2psA6Usj3fT/iFWach7tvaQpHGLReWc6pk8KjvjFmSMsP7F9SoEhak4Q==
+    size: 221083510
+  - url: Remote-0.0.57-arm64.dmg
+    sha512: hzloPgxmBPCeUgjpWaCgZ3yy0PNqxFru2Wu/l0DFKPXkKapgYyMqNE84ML2jTskUlfqFA01AM4auECLOvp71Bw==
+    size: 230662254
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.57/Remote-0.0.57-arm64-mac.zip
+sha512: jGSDv++irco4wL3OOmc4ctSk+KRQDG2psA6Usj3fT/iFWach7tvaQpHGLReWc6pk8KjvjFmSMsP7F9SoEhak4Q==
+releaseDate: '2026-01-09T13:38:52.973Z'
 
 releaseNotes: "<p>🚀 <strong>New Update Experience!</strong></p>\n<p>We've completely redesigned how updates work. It's now smoother, more reliable, and yes... it has rainbows! 🌈</p>\n<ul>\n<li>✨ <strong>New UI:</strong> Beautiful new update banner with progress indication.</li>\n<li>🛠️ <strong>Fixes:</strong> Solved an issue where the app wouldn't restart automatically after updating.</li>\n</ul>"
