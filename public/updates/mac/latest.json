@@ -1,6 +1,6 @@
 {
-  "version": "0.0.55",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.55/Remote-0.0.55-arm64-mac.zip",
-  "releaseDate": "2026-01-08T21:44:50.808Z",
-  "notes": "<h3>🛠️ Critical Call Fix</h3>\n<ul>\n    <li><b>No More Drops</b>: Fixed a critical bug that caused calls to disconnect and reconnect every few seconds.</li>\n    <li><b>Stable Connection</b>: Video and audio are now stable even when background updates occur.</li>\n</ul>"
+  "version": "0.0.56",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.56/Remote-0.0.56-arm64-mac.zip",
+  "releaseDate": "2026-01-09T13:05:31.473Z",
+  "notes": "<p>🚀 <strong>New Update Experience!</strong></p>\n<p>We've completely redesigned how updates work. It's now smoother, more reliable, and yes... it has rainbows! 🌈</p>\n<ul>\n<li>✨ <strong>New UI:</strong> Beautiful new update banner with progress indication.</li>\n<li>🛠️ <strong>Fixes:</strong> Solved an issue where the app wouldn't restart automatically after updating.</li>\n</ul>"
 }

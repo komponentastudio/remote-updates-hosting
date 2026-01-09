@@ -1,13 +1,13 @@
-version: 0.0.55
+version: 0.0.56
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.55/Remote-0.0.55-arm64-mac.zip
-    sha512: MQNfop/z1d42vYxxuDiKF0XHeJT1PHi+WhqRrs3JuSiX4x/jRESl22GNPOaPfYb78cyJ3QepErP0MduW8Y8vpg==
-    size: 221035879
-  - url: Remote-0.0.55-arm64.dmg
-    sha512: 6T0LDcZRMfAdeGwzMDkDRJnsfyuPgQCWKrXG2uejaNm3oW0lUvWfMee0fUqGkgO2ocnyighf9KJAqfDqylXFsw==
-    size: 230614203
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.55/Remote-0.0.55-arm64-mac.zip
-sha512: MQNfop/z1d42vYxxuDiKF0XHeJT1PHi+WhqRrs3JuSiX4x/jRESl22GNPOaPfYb78cyJ3QepErP0MduW8Y8vpg==
-releaseDate: '2026-01-08T21:44:50.630Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.56/Remote-0.0.56-arm64-mac.zip
+    sha512: j+GsBQ/XIaIN2e68J1f//2OGTIEzS27XY3c/ANZGDf5PssdRYqYYaq9ji+cbg0RV3ma36IHbGWH4W39R+Sosrg==
+    size: 221083440
+  - url: Remote-0.0.56-arm64.dmg
+    sha512: jxJriYratokpqs9KwDz6Yp3kPeIHztqnc9NliFi3KlN2DucVD8CLVDDcrvFqiqnsCGR+4Os1hijpspMUnrccVw==
+    size: 230608986
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.56/Remote-0.0.56-arm64-mac.zip
+sha512: j+GsBQ/XIaIN2e68J1f//2OGTIEzS27XY3c/ANZGDf5PssdRYqYYaq9ji+cbg0RV3ma36IHbGWH4W39R+Sosrg==
+releaseDate: '2026-01-09T13:05:31.153Z'
 
-releaseNotes: "<h3>🛠️ Critical Call Fix</h3>\n<ul>\n    <li><b>No More Drops</b>: Fixed a critical bug that caused calls to disconnect and reconnect every few seconds.</li>\n    <li><b>Stable Connection</b>: Video and audio are now stable even when background updates occur.</li>\n</ul>"
+releaseNotes: "<p>🚀 <strong>New Update Experience!</strong></p>\n<p>We've completely redesigned how updates work. It's now smoother, more reliable, and yes... it has rainbows! 🌈</p>\n<ul>\n<li>✨ <strong>New UI:</strong> Beautiful new update banner with progress indication.</li>\n<li>🛠️ <strong>Fixes:</strong> Solved an issue where the app wouldn't restart automatically after updating.</li>\n</ul>"
