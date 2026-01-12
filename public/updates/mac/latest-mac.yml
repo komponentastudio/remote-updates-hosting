@@ -1,13 +1,13 @@
-version: 0.0.59
+version: 0.0.60
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.59/Remote-0.0.59-arm64-mac.zip
-    sha512: tKGN7f5On856TOeZlbmo0T39nRk4nzUNriAGsJcoAJwV3f/SaMWiFiy0A0eAeezQd36s2I3ScrcpG8w5tZPWSw==
-    size: 221123655
-  - url: Remote-0.0.59-arm64.dmg
-    sha512: zKNc8qdJX+iIUu/494CiEwcw1dW8gjK1x2uOFu2WCRwRCtoOSgM7UBQEOH7hSlx/nebn27gY+aXHE0RWCcq9Pg==
-    size: 230668185
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.59/Remote-0.0.59-arm64-mac.zip
-sha512: tKGN7f5On856TOeZlbmo0T39nRk4nzUNriAGsJcoAJwV3f/SaMWiFiy0A0eAeezQd36s2I3ScrcpG8w5tZPWSw==
-releaseDate: '2026-01-12T11:06:42.461Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.60/Remote-0.0.60-arm64-mac.zip
+    sha512: jrfy+FC+LGqNs2V4gJz3twEnvlYhrt1/cwgstgBPbldYDZncGsslxDkn6aoPKFhm2nktVI42kmbWCxU3jZIidw==
+    size: 221118928
+  - url: Remote-0.0.60-arm64.dmg
+    sha512: wWuhxFDrinLaYSwv08xh/fOQqGA6il+K0fRzaSiHtyWonwth1cXHViP84j2DsxlpKiaGRMRVq/CyMOMZfE5JkA==
+    size: 230691159
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.60/Remote-0.0.60-arm64-mac.zip
+sha512: jrfy+FC+LGqNs2V4gJz3twEnvlYhrt1/cwgstgBPbldYDZncGsslxDkn6aoPKFhm2nktVI42kmbWCxU3jZIidw==
+releaseDate: '2026-01-12T13:58:19.944Z'
 
-releaseNotes: "<h3>👋 Call Requests (Nudge)</h3>\n<ul>\n    <li><b>Need to talk?</b>: If a colleague is busy, click the bell icon to say \"Call me when you're free\".</li>\n    <li><b>Get Notified</b>: You'll see a system notification and dock badge when someone wants to talk.</li>\n    <li><b>Smart Call Back</b>: The \"Call\" button turns green when the person who nudged you is actually available.</li>\n</ul>"
+releaseNotes: "<h3>🔔 Nudge Improvements</h3>\n<ul>\n    <li><b>Notifications</b>: Get native system notifications when someone wants to talk.</li>\n    <li><b>Dock Badge</b>: See pending nudge count on the app icon (macOS).</li>\n    <li><b>Auto-dismiss</b>: Nudges clear automatically when you call back.</li>\n</ul>"
