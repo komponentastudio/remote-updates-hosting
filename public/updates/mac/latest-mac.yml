@@ -1,13 +1,13 @@
-version: 0.0.62
+version: 0.0.63
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.62/Remote-0.0.62-arm64-mac.zip
-    sha512: Gt1pX/yoQnI9twfeFxK03L2l2Dljwhl4GrWqJMCInLnDh33sQtReEW1VmAtf5P8V4Ps1gCE/awPX/lKzBryo5g==
-    size: 221133192
-  - url: Remote-0.0.62-arm64.dmg
-    sha512: 4eSLEnU+9iho6OWvdYaxJo8S9BWH7DosmqUniRA4ysYIy/gvF+R0hVv9Dfdv8KIz9fb3nwUVLGAUcpmPz1axZA==
-    size: 230723329
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.62/Remote-0.0.62-arm64-mac.zip
-sha512: Gt1pX/yoQnI9twfeFxK03L2l2Dljwhl4GrWqJMCInLnDh33sQtReEW1VmAtf5P8V4Ps1gCE/awPX/lKzBryo5g==
-releaseDate: '2026-01-12T22:56:36.118Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.63/Remote-0.0.63-arm64-mac.zip
+    sha512: W7IfRVFn+a6kkyQcLOSAhHikxPNsabCK/bD9CAq3MY4jEhSMIhNjFAG5/hL/YTtXH2HUyjKlDR/arNljHxYyRQ==
+    size: 221133207
+  - url: Remote-0.0.63-arm64.dmg
+    sha512: UvW/xeh16yv6Lxkr0a7jFS+2m2B2Innb7bX+2WDYfX2Q9MkP4f5y1Hxj9iaQmslZyubVECP3yQx6mg9cDntugQ==
+    size: 230670016
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.63/Remote-0.0.63-arm64-mac.zip
+sha512: W7IfRVFn+a6kkyQcLOSAhHikxPNsabCK/bD9CAq3MY4jEhSMIhNjFAG5/hL/YTtXH2HUyjKlDR/arNljHxYyRQ==
+releaseDate: '2026-01-12T23:25:52.846Z'
 
-releaseNotes: "<h3>🎥 New Call System (Beta)</h3>\n<ul>\n    <li><b>Unified Window</b>: Bubbles and Grid modes now share a single window - no more connection drops when switching.</li>\n    <li><b>Inline Screen Share</b>: View shared screens directly in the call window with minimize/maximize controls.</li>\n    <li><b>Grid Mode Chat</b>: Full chat and reactions support in fullscreen Grid mode.</li>\n</ul>\n<p><em>Try it: Click \"New\" button on any room card to use the new system.</em></p>"
+releaseNotes: "<h3>🛠️ Critical Bug Fix</h3>\n<ul>\n    <li><b>Fixed Join Error</b>: Resolved an issue that prevented users from joining calls immediately after the update.</li>\n</ul>"
