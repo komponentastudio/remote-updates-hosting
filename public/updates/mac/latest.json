@@ -1,6 +1,6 @@
 {
-  "version": "0.0.60",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.60/Remote-0.0.60-arm64-mac.zip",
-  "releaseDate": "2026-01-12T13:58:20.149Z",
-  "notes": "<h3>🔔 Nudge Improvements</h3>\n<ul>\n    <li><b>Notifications</b>: Get native system notifications when someone wants to talk.</li>\n    <li><b>Dock Badge</b>: See pending nudge count on the app icon (macOS).</li>\n    <li><b>Auto-dismiss</b>: Nudges clear automatically when you call back.</li>\n</ul>"
+  "version": "0.0.61",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.61/Remote-0.0.61-arm64-mac.zip",
+  "releaseDate": "2026-01-12T15:52:54.329Z",
+  "notes": "<p>Fixed update banner animation, nudge compatibility check, login screen flicker, and GIF reaction audio mute.</p>"
 }

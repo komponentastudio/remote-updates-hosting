@@ -1,13 +1,13 @@
-version: 0.0.60
+version: 0.0.61
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.60/Remote-0.0.60-arm64-mac.zip
-    sha512: jrfy+FC+LGqNs2V4gJz3twEnvlYhrt1/cwgstgBPbldYDZncGsslxDkn6aoPKFhm2nktVI42kmbWCxU3jZIidw==
-    size: 221118928
-  - url: Remote-0.0.60-arm64.dmg
-    sha512: wWuhxFDrinLaYSwv08xh/fOQqGA6il+K0fRzaSiHtyWonwth1cXHViP84j2DsxlpKiaGRMRVq/CyMOMZfE5JkA==
-    size: 230691159
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.60/Remote-0.0.60-arm64-mac.zip
-sha512: jrfy+FC+LGqNs2V4gJz3twEnvlYhrt1/cwgstgBPbldYDZncGsslxDkn6aoPKFhm2nktVI42kmbWCxU3jZIidw==
-releaseDate: '2026-01-12T13:58:19.944Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.61/Remote-0.0.61-arm64-mac.zip
+    sha512: ssp8fEJwOh3X78ysBYO+bJYCrkRsNuu41LKlYHMK86ist/s1DSi96dkdRg5uRw9LeM5Q3OUoW7gaiLF4blBbHQ==
+    size: 221118738
+  - url: Remote-0.0.61-arm64.dmg
+    sha512: S/vetFh5YOQ2mVBLFDBuXyDekR8kdTgHK5V42GV3RTHZISA4JDDS5RtlT6+fYW2zGBpkdWa/kD/ZimcTPztfhQ==
+    size: 230691622
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.61/Remote-0.0.61-arm64-mac.zip
+sha512: ssp8fEJwOh3X78ysBYO+bJYCrkRsNuu41LKlYHMK86ist/s1DSi96dkdRg5uRw9LeM5Q3OUoW7gaiLF4blBbHQ==
+releaseDate: '2026-01-12T15:52:54.133Z'
 
-releaseNotes: "<h3>🔔 Nudge Improvements</h3>\n<ul>\n    <li><b>Notifications</b>: Get native system notifications when someone wants to talk.</li>\n    <li><b>Dock Badge</b>: See pending nudge count on the app icon (macOS).</li>\n    <li><b>Auto-dismiss</b>: Nudges clear automatically when you call back.</li>\n</ul>"
+releaseNotes: "<p>Fixed update banner animation, nudge compatibility check, login screen flicker, and GIF reaction audio mute.</p>"
