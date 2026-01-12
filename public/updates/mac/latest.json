@@ -1,6 +1,6 @@
 {
-  "version": "0.0.61",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.61/Remote-0.0.61-arm64-mac.zip",
-  "releaseDate": "2026-01-12T15:52:54.329Z",
-  "notes": "<p>Fixed update banner animation, nudge compatibility check, login screen flicker, and GIF reaction audio mute.</p>"
+  "version": "0.0.62",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.62/Remote-0.0.62-arm64-mac.zip",
+  "releaseDate": "2026-01-12T22:56:36.312Z",
+  "notes": "<h3>🎥 New Call System (Beta)</h3>\n<ul>\n    <li><b>Unified Window</b>: Bubbles and Grid modes now share a single window - no more connection drops when switching.</li>\n    <li><b>Inline Screen Share</b>: View shared screens directly in the call window with minimize/maximize controls.</li>\n    <li><b>Grid Mode Chat</b>: Full chat and reactions support in fullscreen Grid mode.</li>\n</ul>\n<p><em>Try it: Click \"New\" button on any room card to use the new system.</em></p>"
 }
