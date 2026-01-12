@@ -1,13 +1,13 @@
-version: 0.0.58
+version: 0.0.59
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.58/Remote-0.0.58-arm64-mac.zip
-    sha512: QiE42QViqGrmbnVzJxaAnpT/6UEdl0IAyrMbsn2FyEvcvDDSXHYj+OlQiCSX05Tco5wwxa9MjhqKqOOZYnY1HQ==
-    size: 221121383
-  - url: Remote-0.0.58-arm64.dmg
-    sha512: uuwe7hQZDCG1KAOcX4bopC7McGk4e+Rc/HHnoCXD1kz1DY+GqqhgRro7CigFRw0SW+kYdUx59bWH78wMvEa1Mg==
-    size: 230705848
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.58/Remote-0.0.58-arm64-mac.zip
-sha512: QiE42QViqGrmbnVzJxaAnpT/6UEdl0IAyrMbsn2FyEvcvDDSXHYj+OlQiCSX05Tco5wwxa9MjhqKqOOZYnY1HQ==
-releaseDate: '2026-01-09T23:03:48.528Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.59/Remote-0.0.59-arm64-mac.zip
+    sha512: tKGN7f5On856TOeZlbmo0T39nRk4nzUNriAGsJcoAJwV3f/SaMWiFiy0A0eAeezQd36s2I3ScrcpG8w5tZPWSw==
+    size: 221123655
+  - url: Remote-0.0.59-arm64.dmg
+    sha512: zKNc8qdJX+iIUu/494CiEwcw1dW8gjK1x2uOFu2WCRwRCtoOSgM7UBQEOH7hSlx/nebn27gY+aXHE0RWCcq9Pg==
+    size: 230668185
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.59/Remote-0.0.59-arm64-mac.zip
+sha512: tKGN7f5On856TOeZlbmo0T39nRk4nzUNriAGsJcoAJwV3f/SaMWiFiy0A0eAeezQd36s2I3ScrcpG8w5tZPWSw==
+releaseDate: '2026-01-12T11:06:42.461Z'
 
-releaseNotes: "<h3>🎉 Reactions are Back!</h3>\n<ul>\n    <li><b>Express Yourself</b>: The Emoji and GIF picker has returned to Bubble Mode!</li>\n    <li><b>GIF Support</b>: Send GIFs that replace your video bubble for fun reactions.</li>\n    <li><b>Emoji Overlays</b>: Blast emojis that float over your bubble.</li>\n</ul>"
+releaseNotes: "<h3>👋 Call Requests (Nudge)</h3>\n<ul>\n    <li><b>Need to talk?</b>: If a colleague is busy, click the bell icon to say \"Call me when you're free\".</li>\n    <li><b>Get Notified</b>: You'll see a system notification and dock badge when someone wants to talk.</li>\n    <li><b>Smart Call Back</b>: The \"Call\" button turns green when the person who nudged you is actually available.</li>\n</ul>"

@@ -1,6 +1,6 @@
 {
-  "version": "0.0.58",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.58/Remote-0.0.58-arm64-mac.zip",
-  "releaseDate": "2026-01-09T23:03:48.737Z",
-  "notes": "<h3>🎉 Reactions are Back!</h3>\n<ul>\n    <li><b>Express Yourself</b>: The Emoji and GIF picker has returned to Bubble Mode!</li>\n    <li><b>GIF Support</b>: Send GIFs that replace your video bubble for fun reactions.</li>\n    <li><b>Emoji Overlays</b>: Blast emojis that float over your bubble.</li>\n</ul>"
+  "version": "0.0.59",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.59/Remote-0.0.59-arm64-mac.zip",
+  "releaseDate": "2026-01-12T11:06:42.649Z",
+  "notes": "<h3>👋 Call Requests (Nudge)</h3>\n<ul>\n    <li><b>Need to talk?</b>: If a colleague is busy, click the bell icon to say \"Call me when you're free\".</li>\n    <li><b>Get Notified</b>: You'll see a system notification and dock badge when someone wants to talk.</li>\n    <li><b>Smart Call Back</b>: The \"Call\" button turns green when the person who nudged you is actually available.</li>\n</ul>"
 }
