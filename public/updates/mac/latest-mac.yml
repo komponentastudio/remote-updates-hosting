@@ -1,13 +1,13 @@
-version: 0.0.65
+version: 0.0.66
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.65/Remote-0.0.65-arm64-mac.zip
-    sha512: 6tNOA47cq/a2RqtF7CM/GYgmWFTnm2t2mkx52fSbhKR7mRw4RcPGp8lZhhxbVj8OCmuE+ajoJo2Bg7flTXf/Lw==
-    size: 227950087
-  - url: Remote-0.0.65-arm64.dmg
-    sha512: +M1mn3dggRqX9eHBXioNijA26Is8c7f4OTHgRzecMQjkwqEp1UtHXxP/frJ5u/XvTx7WYiXSLXKQ2ymB44xhAg==
-    size: 237539417
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.65/Remote-0.0.65-arm64-mac.zip
-sha512: 6tNOA47cq/a2RqtF7CM/GYgmWFTnm2t2mkx52fSbhKR7mRw4RcPGp8lZhhxbVj8OCmuE+ajoJo2Bg7flTXf/Lw==
-releaseDate: '2026-01-13T01:23:06.476Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.66/Remote-0.0.66-arm64-mac.zip
+    sha512: A+uHBXubuDfiovhX34jnZ/Vi1jly1liGlBysPfMvao5sl9R1hfVZrK6d8+lsNC5/D6aY5GgoWr4m1GHXc+6BkQ==
+    size: 227953506
+  - url: Remote-0.0.66-arm64.dmg
+    sha512: opMLpC3qPhYIWLxIcCv8zYEQBX++j6oXgZ14j4TuwvTHOf0VNEU8lodJ6OG+cJWbbKvYKnOu8WdJFoLHlvw2oA==
+    size: 237564372
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.66/Remote-0.0.66-arm64-mac.zip
+sha512: A+uHBXubuDfiovhX34jnZ/Vi1jly1liGlBysPfMvao5sl9R1hfVZrK6d8+lsNC5/D6aY5GgoWr4m1GHXc+6BkQ==
+releaseDate: '2026-01-13T23:36:17.694Z'
 
-releaseNotes: "<h3>🎨 UI Polish & Avatar Improvements</h3>\n<ul>\n    <li><b>Magnetic Avatars</b>: Room tiles now use smooth physics-based avatar clustering.</li>\n    <li><b>Larger Avatars</b>: Avatars are now bigger and more visible in room tiles.</li>\n    <li><b>Cleaner Look</b>: Removed borders from avatars for a more minimal design.</li>\n</ul>"
+releaseNotes: "<h3>🖥️ Google Meet-Style Screen Share</h3>\n<ul>\n    <li><b>Fullscreen Presentation</b>: Screen shares now display in a large main area with all participants in a sidebar on the right.</li>\n    <li><b>Better Layout</b>: Works identically whether you're presenting or watching - clean, professional layout matching industry standards.</li>\n    <li><b>No Duplicates</b>: Presenter's avatar appears in sidebar (not their screen) to avoid redundant display.</li>\n</ul>\n<h3>💬 Chat Improvements</h3>\n<ul>\n    <li><b>Timestamps</b>: Chat messages now show time indicators in a centered timeline, similar to iMessage.</li>\n    <li><b>Better Readability</b>: Improved font sizing for timestamps and sender names.</li>\n</ul>\n<h3>🔗 Redesigned Link Previews</h3>\n<ul>\n    <li><b>Modern Design</b>: Beautiful glassmorphism cards with dark transparent background and blur effects.</li>\n    <li><b>Smart Previews</b>: Automatically displays OG images when available, or shows elegant placeholder with \"Open link\" when missing.</li>\n    <li><b>Smooth Animations</b>: Cards slide up from bottom with Apple-like easing, hover effects on images, and clockwise progress timer.</li>\n    <li><b>Quick Access</b>: Click anywhere on the card to open the link, or use the close button to dismiss.</li>\n</ul>"

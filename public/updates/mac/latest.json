@@ -1,6 +1,6 @@
 {
-  "version": "0.0.65",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.65/Remote-0.0.65-arm64-mac.zip",
-  "releaseDate": "2026-01-13T01:23:06.665Z",
-  "notes": "<h3>🎨 UI Polish & Avatar Improvements</h3>\n<ul>\n    <li><b>Magnetic Avatars</b>: Room tiles now use smooth physics-based avatar clustering.</li>\n    <li><b>Larger Avatars</b>: Avatars are now bigger and more visible in room tiles.</li>\n    <li><b>Cleaner Look</b>: Removed borders from avatars for a more minimal design.</li>\n</ul>"
+  "version": "0.0.66",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.66/Remote-0.0.66-arm64-mac.zip",
+  "releaseDate": "2026-01-13T23:36:17.896Z",
+  "notes": "<h3>🖥️ Google Meet-Style Screen Share</h3>\n<ul>\n    <li><b>Fullscreen Presentation</b>: Screen shares now display in a large main area with all participants in a sidebar on the right.</li>\n    <li><b>Better Layout</b>: Works identically whether you're presenting or watching - clean, professional layout matching industry standards.</li>\n    <li><b>No Duplicates</b>: Presenter's avatar appears in sidebar (not their screen) to avoid redundant display.</li>\n</ul>\n<h3>💬 Chat Improvements</h3>\n<ul>\n    <li><b>Timestamps</b>: Chat messages now show time indicators in a centered timeline, similar to iMessage.</li>\n    <li><b>Better Readability</b>: Improved font sizing for timestamps and sender names.</li>\n</ul>\n<h3>🔗 Redesigned Link Previews</h3>\n<ul>\n    <li><b>Modern Design</b>: Beautiful glassmorphism cards with dark transparent background and blur effects.</li>\n    <li><b>Smart Previews</b>: Automatically displays OG images when available, or shows elegant placeholder with \"Open link\" when missing.</li>\n    <li><b>Smooth Animations</b>: Cards slide up from bottom with Apple-like easing, hover effects on images, and clockwise progress timer.</li>\n    <li><b>Quick Access</b>: Click anywhere on the card to open the link, or use the close button to dismiss.</li>\n</ul>"
 }
