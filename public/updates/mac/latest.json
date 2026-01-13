@@ -1,6 +1,6 @@
 {
-  "version": "0.0.64",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.64/Remote-0.0.64-arm64-mac.zip",
-  "releaseDate": "2026-01-13T00:48:40.656Z",
-  "notes": "<h3>📞 Improved 1-to-1 Calling & UI Polish</h3>\n<ul>\n    <li><b>Calling Ringtone</b>: Subtle background music plays while waiting for your colleague to answer.</li>\n    <li><b>Visual Feedback</b>: See a \"Waiting...\" indicator on their avatar while the call rings.</li>\n    <li><b>Faster Experience</b>: Call windows now open instantly - no more waiting!</li>\n    <li><b>Team Switcher</b>: The team dropdown menu is back!</li>\n</ul>"
+  "version": "0.0.65",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.65/Remote-0.0.65-arm64-mac.zip",
+  "releaseDate": "2026-01-13T01:23:06.665Z",
+  "notes": "<h3>🎨 UI Polish & Avatar Improvements</h3>\n<ul>\n    <li><b>Magnetic Avatars</b>: Room tiles now use smooth physics-based avatar clustering.</li>\n    <li><b>Larger Avatars</b>: Avatars are now bigger and more visible in room tiles.</li>\n    <li><b>Cleaner Look</b>: Removed borders from avatars for a more minimal design.</li>\n</ul>"
 }

@@ -1,13 +1,13 @@
-version: 0.0.64
+version: 0.0.65
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.64/Remote-0.0.64-arm64-mac.zip
-    sha512: PmE5tKh1uolnqAO3TlfgmPM1vNKuAZuO/wE8/E9cfasCivghu5BdR1DJyriRHRmTY3TaDBQb/2GlIPEjDgHXeg==
-    size: 227949684
-  - url: Remote-0.0.64-arm64.dmg
-    sha512: H43njj3uQiDtfdhuwRtI4/ZFXw4Au0olCrand/p/2o8iYvSTdNWWgOkMBq1DC3VKOWd+UrfZa9YKB3eMPRpVow==
-    size: 237565733
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.64/Remote-0.0.64-arm64-mac.zip
-sha512: PmE5tKh1uolnqAO3TlfgmPM1vNKuAZuO/wE8/E9cfasCivghu5BdR1DJyriRHRmTY3TaDBQb/2GlIPEjDgHXeg==
-releaseDate: '2026-01-13T00:48:40.442Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.65/Remote-0.0.65-arm64-mac.zip
+    sha512: 6tNOA47cq/a2RqtF7CM/GYgmWFTnm2t2mkx52fSbhKR7mRw4RcPGp8lZhhxbVj8OCmuE+ajoJo2Bg7flTXf/Lw==
+    size: 227950087
+  - url: Remote-0.0.65-arm64.dmg
+    sha512: +M1mn3dggRqX9eHBXioNijA26Is8c7f4OTHgRzecMQjkwqEp1UtHXxP/frJ5u/XvTx7WYiXSLXKQ2ymB44xhAg==
+    size: 237539417
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.65/Remote-0.0.65-arm64-mac.zip
+sha512: 6tNOA47cq/a2RqtF7CM/GYgmWFTnm2t2mkx52fSbhKR7mRw4RcPGp8lZhhxbVj8OCmuE+ajoJo2Bg7flTXf/Lw==
+releaseDate: '2026-01-13T01:23:06.476Z'
 
-releaseNotes: "<h3>📞 Improved 1-to-1 Calling & UI Polish</h3>\n<ul>\n    <li><b>Calling Ringtone</b>: Subtle background music plays while waiting for your colleague to answer.</li>\n    <li><b>Visual Feedback</b>: See a \"Waiting...\" indicator on their avatar while the call rings.</li>\n    <li><b>Faster Experience</b>: Call windows now open instantly - no more waiting!</li>\n    <li><b>Team Switcher</b>: The team dropdown menu is back!</li>\n</ul>"
+releaseNotes: "<h3>🎨 UI Polish & Avatar Improvements</h3>\n<ul>\n    <li><b>Magnetic Avatars</b>: Room tiles now use smooth physics-based avatar clustering.</li>\n    <li><b>Larger Avatars</b>: Avatars are now bigger and more visible in room tiles.</li>\n    <li><b>Cleaner Look</b>: Removed borders from avatars for a more minimal design.</li>\n</ul>"
