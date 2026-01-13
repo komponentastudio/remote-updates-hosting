@@ -1,6 +1,6 @@
 {
-  "version": "0.0.63",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.63/Remote-0.0.63-arm64-mac.zip",
-  "releaseDate": "2026-01-12T23:25:53.013Z",
-  "notes": "<h3>🛠️ Critical Bug Fix</h3>\n<ul>\n    <li><b>Fixed Join Error</b>: Resolved an issue that prevented users from joining calls immediately after the update.</li>\n</ul>"
+  "version": "0.0.64",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.64/Remote-0.0.64-arm64-mac.zip",
+  "releaseDate": "2026-01-13T00:48:40.656Z",
+  "notes": "<h3>📞 Improved 1-to-1 Calling & UI Polish</h3>\n<ul>\n    <li><b>Calling Ringtone</b>: Subtle background music plays while waiting for your colleague to answer.</li>\n    <li><b>Visual Feedback</b>: See a \"Waiting...\" indicator on their avatar while the call rings.</li>\n    <li><b>Faster Experience</b>: Call windows now open instantly - no more waiting!</li>\n    <li><b>Team Switcher</b>: The team dropdown menu is back!</li>\n</ul>"
 }

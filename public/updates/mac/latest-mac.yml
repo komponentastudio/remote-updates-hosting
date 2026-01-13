@@ -1,13 +1,13 @@
-version: 0.0.63
+version: 0.0.64
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.63/Remote-0.0.63-arm64-mac.zip
-    sha512: W7IfRVFn+a6kkyQcLOSAhHikxPNsabCK/bD9CAq3MY4jEhSMIhNjFAG5/hL/YTtXH2HUyjKlDR/arNljHxYyRQ==
-    size: 221133207
-  - url: Remote-0.0.63-arm64.dmg
-    sha512: UvW/xeh16yv6Lxkr0a7jFS+2m2B2Innb7bX+2WDYfX2Q9MkP4f5y1Hxj9iaQmslZyubVECP3yQx6mg9cDntugQ==
-    size: 230670016
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.63/Remote-0.0.63-arm64-mac.zip
-sha512: W7IfRVFn+a6kkyQcLOSAhHikxPNsabCK/bD9CAq3MY4jEhSMIhNjFAG5/hL/YTtXH2HUyjKlDR/arNljHxYyRQ==
-releaseDate: '2026-01-12T23:25:52.846Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.64/Remote-0.0.64-arm64-mac.zip
+    sha512: PmE5tKh1uolnqAO3TlfgmPM1vNKuAZuO/wE8/E9cfasCivghu5BdR1DJyriRHRmTY3TaDBQb/2GlIPEjDgHXeg==
+    size: 227949684
+  - url: Remote-0.0.64-arm64.dmg
+    sha512: H43njj3uQiDtfdhuwRtI4/ZFXw4Au0olCrand/p/2o8iYvSTdNWWgOkMBq1DC3VKOWd+UrfZa9YKB3eMPRpVow==
+    size: 237565733
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.64/Remote-0.0.64-arm64-mac.zip
+sha512: PmE5tKh1uolnqAO3TlfgmPM1vNKuAZuO/wE8/E9cfasCivghu5BdR1DJyriRHRmTY3TaDBQb/2GlIPEjDgHXeg==
+releaseDate: '2026-01-13T00:48:40.442Z'
 
-releaseNotes: "<h3>🛠️ Critical Bug Fix</h3>\n<ul>\n    <li><b>Fixed Join Error</b>: Resolved an issue that prevented users from joining calls immediately after the update.</li>\n</ul>"
+releaseNotes: "<h3>📞 Improved 1-to-1 Calling & UI Polish</h3>\n<ul>\n    <li><b>Calling Ringtone</b>: Subtle background music plays while waiting for your colleague to answer.</li>\n    <li><b>Visual Feedback</b>: See a \"Waiting...\" indicator on their avatar while the call rings.</li>\n    <li><b>Faster Experience</b>: Call windows now open instantly - no more waiting!</li>\n    <li><b>Team Switcher</b>: The team dropdown menu is back!</li>\n</ul>"
