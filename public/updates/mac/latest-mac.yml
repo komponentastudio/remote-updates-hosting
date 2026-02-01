@@ -1,13 +1,13 @@
-version: 0.0.70
+version: 0.0.71
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.70/Remote-0.0.70-arm64-mac.zip
-    sha512: cFJi7IT/antQmMBRVGvEi1c0tcZ+zVTP5BN0D9enXhhXAQHk7JJwvJYEw+v4Fc+ts04JGEWk56jsN+wP5rWuPA==
-    size: 227975685
-  - url: Remote-0.0.70-arm64.dmg
-    sha512: 7EUoC8rHO6KqfWHAryr6N07252nYf/M7lZxyVtdjt6gkli4+EkLM5WKK2Kp9uf+U0dTRWwgTLv8nKwx1fpn03A==
-    size: 237551496
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.70/Remote-0.0.70-arm64-mac.zip
-sha512: cFJi7IT/antQmMBRVGvEi1c0tcZ+zVTP5BN0D9enXhhXAQHk7JJwvJYEw+v4Fc+ts04JGEWk56jsN+wP5rWuPA==
-releaseDate: '2026-01-26T22:43:09.886Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.71/Remote-0.0.71-arm64-mac.zip
+    sha512: PKlHO6Tb6cOYe+a50FFApeJ2r8GSJ+eVG0Z3x8FrLyvgTM2LrLTbsE5akgLK/qL226D+02pyYtHAMnEqpceJew==
+    size: 227962103
+  - url: Remote-0.0.71-arm64.dmg
+    sha512: FQTL6PRkmyeAYl8u1wyy1Wx4VBQFZ+A/s1gdm1Tu/goEvJso8SwPWrM9/4ykcdDbnd9ws6Hvw/qrtI5DZlM0Cw==
+    size: 237569942
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.71/Remote-0.0.71-arm64-mac.zip
+sha512: PKlHO6Tb6cOYe+a50FFApeJ2r8GSJ+eVG0Z3x8FrLyvgTM2LrLTbsE5akgLK/qL226D+02pyYtHAMnEqpceJew==
+releaseDate: '2026-02-01T22:41:26.997Z'
 
-releaseNotes: "<h3>🎬 Dual-Stream Screen Share</h3>\n<ul>\n    <li><b>See Both Camera + Screen</b>: Now you can see the presenter's face in their bubble/tile AND their shared screen at the same time.</li>\n    <li><b>No More Avatar</b>: Presenter's camera is now visible in the sidebar during screen share instead of just their avatar.</li>\n    <li><b>Late Joiner Support</b>: Users joining a call with active screen share now see it immediately.</li>\n</ul>\n<h3>🔧 Permission Debug Tools</h3>\n<ul>\n    <li><b>Test Screen Capture</b>: Verify screen sharing works by seeing all available screens and windows with thumbnails.</li>\n    <li><b>Test Active App Detection</b>: See live updates of which app is currently detected, with debug info to troubleshoot issues.</li>\n    <li><b>Dev Mode Help</b>: Clear warnings explain that in development, you need to grant permissions to your IDE, not just Remote.</li>\n</ul>\n<h3>😊 Improved Emoji Picker</h3>\n<ul>\n    <li><b>Frequent Emojis</b>: Your most-used emojis now appear at the top for quick access.</li>\n    <li><b>Cleaner UI</b>: Removed section headers for a cleaner, more modern look.</li>\n    <li><b>Better Navigation</b>: Category icons automatically highlight as you scroll through emojis.</li>\n    <li><b>Clear Search</b>: Quick X button to clear your search.</li>\n    <li><b>No Scrollbars</b>: Cleaner interface with hidden scrollbars - scroll with trackpad or mouse wheel.</li>\n</ul>\n<h3>🐛 Bug Fixes</h3>\n<ul>\n    <li><b>GIF Scrolling</b>: Fixed issues with scrolling and dragging in GIF tab.</li>\n    <li><b>State Reset</b>: Picker now properly resets when switching tabs or leaving rooms.</li>\n    <li><b>Room Switching</b>: Fixed stability issues when switching between rooms - no more getting stuck or duplicate leave operations.</li>\n    <li><b>1to1 Calls</b>: Fixed issue where 1to1 rooms would remain visible after ending call during ringing phase.</li>\n    <li><b>Auth Stability</b>: Improved handling of temporary authentication state changes that were causing permission errors.</li>\n</ul>\n<h3>🎨 UI Polish</h3>\n<ul>\n    <li><b>Status Selector</b>: Status selector now consistently shows your presence status (Online, DnD, etc.) even during active calls.</li>\n    <li><b>Cleaner Sidebar</b>: Dropdown arrow in status selector now appears on hover, matching other sidebar controls.</li>\n</ul>"
+releaseNotes: "<h3>🚀 Faster & More Stable Calls</h3>\n<ul>\n    <li><b>Instant Connections</b>: 1-to-1 calls now connect much faster thanks to a new real-time signaling system.</li>\n    <li><b>Bulletproof Room Leave</b>: Completely fixed the \"stuck in room\" bug - leaving a call now always works reliably.</li>\n    <li><b>Chat History Saved</b>: Your 1-to-1 chat history is now safely preserved when you leave a call.</li>\n    <li><b>Device Selection</b>: You can now properly select and switch your camera, microphone, and speakers during calls.</li>\n    <li><b>Auto-Recovery</b>: The app now automatically recovers from temporary connection issues without requiring a restart.</li>\n</ul>"
