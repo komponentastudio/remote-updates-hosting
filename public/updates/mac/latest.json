@@ -1,6 +1,6 @@
 {
-  "version": "0.0.71",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.0.71/Remote-0.0.71-arm64-mac.zip",
-  "releaseDate": "2026-02-01T22:41:27.201Z",
-  "notes": "<h3>🚀 Faster & More Stable Calls</h3>\n<ul>\n    <li><b>Instant Connections</b>: 1-to-1 calls now connect much faster thanks to a new real-time signaling system.</li>\n    <li><b>Bulletproof Room Leave</b>: Completely fixed the \"stuck in room\" bug - leaving a call now always works reliably.</li>\n    <li><b>Chat History Saved</b>: Your 1-to-1 chat history is now safely preserved when you leave a call.</li>\n    <li><b>Device Selection</b>: You can now properly select and switch your camera, microphone, and speakers during calls.</li>\n    <li><b>Auto-Recovery</b>: The app now automatically recovers from temporary connection issues without requiring a restart.</li>\n</ul>"
+  "version": "0.1.0",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.0/Remote-0.1.0-arm64-mac.zip",
+  "releaseDate": "2026-02-02T16:12:26.044Z",
+  "notes": "<h3>🚀 Team Rooms: Now Unlimited Participants</h3>\n<ul>\n    <li><b>LiveKit SFU</b>: Team rooms now use professional-grade media infrastructure that scales to 50+ participants.</li>\n    <li><b>Cost Optimized</b>: Connection only happens when you have company. Solo in a room = $0 cost.</li>\n    <li><b>Faster Rejoins</b>: 30-second grace period means quick rejoins don't require full reconnection.</li>\n    <li><b>Better Quality</b>: Consistent video quality regardless of participant count.</li>\n    <li><b>Rock-Solid Rooms</b>: Improved room state management ensures you never get \"stuck\" in a room.</li>\n</ul>"
 }
