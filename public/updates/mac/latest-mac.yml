@@ -1,13 +1,13 @@
-version: 0.1.0
+version: 0.1.1
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.0/Remote-0.1.0-arm64-mac.zip
-    sha512: tbxsKJXV03o/2Pdd83+30qrKJvFQtHNh/Paf+4pSaI4d7pcv8mjWOjEilQqLZ0fVbbxo594G/f3Q9JyibaMyZQ==
-    size: 228074460
-  - url: Remote-0.1.0-arm64.dmg
-    sha512: aIAEk/h+QToferBhoKq4YnDpmnqe8HcZbvmbf/EvCcjaOUggj1KYT4TMqNGm+tzNS47xebc8NPPPhzxqKw9Frg==
-    size: 237673090
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.0/Remote-0.1.0-arm64-mac.zip
-sha512: tbxsKJXV03o/2Pdd83+30qrKJvFQtHNh/Paf+4pSaI4d7pcv8mjWOjEilQqLZ0fVbbxo594G/f3Q9JyibaMyZQ==
-releaseDate: '2026-02-02T16:12:25.688Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.1/Remote-0.1.1-arm64-mac.zip
+    sha512: m4YVEFR2tZm5taqxl5luMQ7bE7xDGaquwIcKVnYu9a7nQiFSMFbaBxTUO4MbGl/6aU+DCQ8pGcVH+xGwzNz3UA==
+    size: 228075476
+  - url: Remote-0.1.1-arm64.dmg
+    sha512: 0whxjexFHt2RvK4/Bh6Biibjk4qtdvo0kqRXLVpUQytS18YJC9kqMOJM5md/txga5sduXjDB400zV3WJyUwtrA==
+    size: 237673428
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.1/Remote-0.1.1-arm64-mac.zip
+sha512: m4YVEFR2tZm5taqxl5luMQ7bE7xDGaquwIcKVnYu9a7nQiFSMFbaBxTUO4MbGl/6aU+DCQ8pGcVH+xGwzNz3UA==
+releaseDate: '2026-02-06T15:05:13.479Z'
 
-releaseNotes: "<h3>🚀 Team Rooms: Now Unlimited Participants</h3>\n<ul>\n    <li><b>LiveKit SFU</b>: Team rooms now use professional-grade media infrastructure that scales to 50+ participants.</li>\n    <li><b>Cost Optimized</b>: Connection only happens when you have company. Solo in a room = $0 cost.</li>\n    <li><b>Faster Rejoins</b>: 30-second grace period means quick rejoins don't require full reconnection.</li>\n    <li><b>Better Quality</b>: Consistent video quality regardless of participant count.</li>\n    <li><b>Rock-Solid Rooms</b>: Improved room state management ensures you never get \"stuck\" in a room.</li>\n</ul>"
+releaseNotes: "<h3>📞 SFU Call Fix</h3>\n<ul>\n    <li><b>Team Room Calls</b>: Fixed issue where team room calls would fail to connect when 2+ participants joined.</li>\n</ul>\n<h3>⚡ Battery Life Improvements</h3>\n<ul>\n    <li><b>Lower Energy Usage</b>: Remote now uses significantly less battery when running in the background.</li>\n    <li><b>Smarter Physics</b>: Avatar animations pause automatically when not needed, saving CPU cycles.</li>\n</ul>\n<h3>🔔 Nudge & Missed Call Fixes</h3>\n<ul>\n    <li><b>Reliable Missed Calls</b>: Missed call notifications now work reliably even during network hiccups.</li>\n    <li><b>Better Notifications</b>: System notifications are now properly permission-gated.</li>\n</ul>"
