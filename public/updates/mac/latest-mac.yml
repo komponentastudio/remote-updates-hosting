@@ -1,13 +1,13 @@
-version: 0.1.2
+version: 0.1.3
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.2/Remote-0.1.2-arm64-mac.zip
-    sha512: +REMddUf1WDvM3QpWMdYkFx/1A8eeXWY8IGuU68SsZ7wnpTFedcx38vknPE4Btoh6bOvvaXkdjHW15pHxueYDw==
-    size: 228079211
-  - url: Remote-0.1.2-arm64.dmg
-    sha512: E0Luunm5rOmj/r1hB6znu8wdxerCNay0EQ4Ji4JeCxTgbjxgx9ekeDyxplkC2yBM+7akrEP+44f3UX4BxQ1Tnw==
-    size: 237675951
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.2/Remote-0.1.2-arm64-mac.zip
-sha512: +REMddUf1WDvM3QpWMdYkFx/1A8eeXWY8IGuU68SsZ7wnpTFedcx38vknPE4Btoh6bOvvaXkdjHW15pHxueYDw==
-releaseDate: '2026-02-07T22:56:46.245Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.3/Remote-0.1.3-arm64-mac.zip
+    sha512: qQK2avCd0TOTY8P2ICLzF2ALce2Jn/6G7eabOrZyEAREuzeAc4v14slKe5TtxqctRpM/DdlK9gHOM/W6bxLHtw==
+    size: 232458765
+  - url: Remote-0.1.3-arm64.dmg
+    sha512: ODjCJVPdIzgEDppWrWyVxap5thxVjzZ+vFBrbC12htb99CSwFx5sAGCjXPMd/Ce1HY6yaUqCuXncEXet9gR4tw==
+    size: 241153415
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.1.3/Remote-0.1.3-arm64-mac.zip
+sha512: qQK2avCd0TOTY8P2ICLzF2ALce2Jn/6G7eabOrZyEAREuzeAc4v14slKe5TtxqctRpM/DdlK9gHOM/W6bxLHtw==
+releaseDate: '2026-02-08T23:16:44.402Z'
 
-releaseNotes: "<h3>Ghost User Fix</h3>\n<ul>\n    <li><b>No More Ghosts</b>: Force quitting the app no longer leaves you stuck in a room. Server-side cleanup removes you within 30-60 seconds.</li>\n    <li><b>Reconnecting Indicator</b>: When a participant loses connection, their avatar dims with a \"Reconnecting...\" shimmer effect. If they don't return within 30 seconds, they're automatically removed.</li>\n    <li><b>Crash Recovery</b>: App crashes and unexpected exits are now handled gracefully with automatic state cleanup.</li>\n</ul>\n<h3>Better Popup Positioning</h3>\n<ul>\n    <li><b>Centered Popups</b>: Chat and reaction panels are now properly centered on your video bubble.</li>\n    <li><b>No More Overlap</b>: Popups no longer overlap with bubbles when appearing below.</li>\n    <li><b>Screen Picker</b>: Share screen dialog now appears on the correct monitor.</li>\n</ul>\n<h3>Do Not Disturb</h3>\n<ul>\n    <li><b>DND Blocks Calls</b>: When you set Do Not Disturb, nobody can call or nudge you. Same protection as being offline.</li>\n    <li><b>Fixed Call Button</b>: Call and nudge buttons now correctly respect your presence status.</li>\n</ul>\n<h3>Chat & Screen Share</h3>\n<ul>\n    <li><b>Paste Images</b>: Ctrl+V in chat input now attaches images from clipboard.</li>\n    <li><b>Solo Screen Share</b>: You can start screen sharing even when alone; it will stream when someone joins.</li>\n    <li><b>Correct Aspect Ratio</b>: Shared windows keep their shape instead of stretching to 16:9.</li>\n    <li><b>Camera Mirror Fix</b>: Self-view camera stays mirrored when screen sharing.</li>\n</ul>"
+releaseNotes: "<h3>Internal Architecture Upgrade</h3>\n<ul>\n    <li><b>Monorepo</b>: Project restructured into shared packages for future multi-platform support (Windows, Web).</li>\n    <li><b>Platform Abstraction</b>: All Electron-specific code now goes through a clean abstraction layer.</li>\n    <li><b>No User-Facing Changes</b>: This release is purely internal. Everything works exactly as before.</li>\n</ul>"
