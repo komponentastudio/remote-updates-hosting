@@ -1,13 +1,13 @@
-version: 0.2.2
+version: 0.2.3
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.2/Remote-0.2.2-arm64-mac.zip
-    sha512: /0EfXdUDcUsYwyQfw6HqFUv7kW6TeiUJwR6v0kFGvItO6P5cRdp5RSCgIXh/0louKIHSrVK8wFomveaaPDGVhw==
-    size: 238189968
-  - url: Remote-0.2.2-arm64.dmg
-    sha512: 1tWgjF1VezSHV2HX0kRcpgawDRsygOJf25mOF9Ii7MO4d2JEOqjXwdlArNNkNthivZfxfNHwzr1tqJI5oT5VXw==
-    size: 247133496
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.2/Remote-0.2.2-arm64-mac.zip
-sha512: /0EfXdUDcUsYwyQfw6HqFUv7kW6TeiUJwR6v0kFGvItO6P5cRdp5RSCgIXh/0louKIHSrVK8wFomveaaPDGVhw==
-releaseDate: '2026-02-15T22:02:04.466Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.3/Remote-0.2.3-arm64-mac.zip
+    sha512: gQpWJikcFHd1q7aMwUGLlF6WgkNfM09ut2y6cck1MFq0t8d1wVnz8JXKhwIU82UsC6EeTlzgN3hBVBETr9Fe7w==
+    size: 238189248
+  - url: Remote-0.2.3-arm64.dmg
+    sha512: pfwPoL0UZaP6gYwN6iiRlCIWLX7wq6GGdIUa3F85dSktxqd2JLAHCa0HYldJEVI3P/m++EE5NjPV4zyspGGDWA==
+    size: 247134605
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.3/Remote-0.2.3-arm64-mac.zip
+sha512: gQpWJikcFHd1q7aMwUGLlF6WgkNfM09ut2y6cck1MFq0t8d1wVnz8JXKhwIU82UsC6EeTlzgN3hBVBETr9Fe7w==
+releaseDate: '2026-02-15T22:28:54.851Z'
 
-releaseNotes: "<p><b>Critical Fix</b>: App was crashing after OTA update due to missing Firebase configuration in the build. This is now fixed with embedded fallback values.</p>"
+releaseNotes: "<p><b>Fix</b>: GIF reactions now work in production.</p>"

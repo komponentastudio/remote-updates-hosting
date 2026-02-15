@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.2/Remote-0.2.2-arm64-mac.zip",
-  "releaseDate": "2026-02-15T22:02:04.624Z",
-  "notes": "<p><b>Critical Fix</b>: App was crashing after OTA update due to missing Firebase configuration in the build. This is now fixed with embedded fallback values.</p>"
+  "version": "0.2.3",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.3/Remote-0.2.3-arm64-mac.zip",
+  "releaseDate": "2026-02-15T22:28:55.006Z",
+  "notes": "<p><b>Fix</b>: GIF reactions now work in production.</p>"
 }
