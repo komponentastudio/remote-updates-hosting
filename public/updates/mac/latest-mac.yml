@@ -1,13 +1,13 @@
 version: 0.2.2
 files:
   - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.2/Remote-0.2.2-arm64-mac.zip
-    sha512: zDCSodhzzsnNNS4PhiLP1taXp5MEUTE2s+mdYHfiL8MjRRY899ZlHSSY82MBDkhL1MqXk9rhV03wlTRBvyCNhg==
-    size: 238189495
+    sha512: /0EfXdUDcUsYwyQfw6HqFUv7kW6TeiUJwR6v0kFGvItO6P5cRdp5RSCgIXh/0louKIHSrVK8wFomveaaPDGVhw==
+    size: 238189968
   - url: Remote-0.2.2-arm64.dmg
-    sha512: /ADHbXhXmhG9TjIa8sLYX3YaD7MSOyK9zB6HVqVNiHNOiGyXgDsNa73I5z3iGbec3Tur02uO77hY2QyQtCq/0g==
-    size: 247137176
+    sha512: 1tWgjF1VezSHV2HX0kRcpgawDRsygOJf25mOF9Ii7MO4d2JEOqjXwdlArNNkNthivZfxfNHwzr1tqJI5oT5VXw==
+    size: 247133496
 path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.2/Remote-0.2.2-arm64-mac.zip
-sha512: zDCSodhzzsnNNS4PhiLP1taXp5MEUTE2s+mdYHfiL8MjRRY899ZlHSSY82MBDkhL1MqXk9rhV03wlTRBvyCNhg==
-releaseDate: '2026-02-15T21:17:32.942Z'
+sha512: /0EfXdUDcUsYwyQfw6HqFUv7kW6TeiUJwR6v0kFGvItO6P5cRdp5RSCgIXh/0louKIHSrVK8wFomveaaPDGVhw==
+releaseDate: '2026-02-15T22:02:04.466Z'
 
-releaseNotes: "<p><b>CI/CD Fixes</b></p><ul><li>Fixed release workflow naming (double-v)</li><li>Fixed Windows build configuration</li><li>Fixed cross-platform OTA script paths</li></ul>"
+releaseNotes: "<p><b>Critical Fix</b>: App was crashing after OTA update due to missing Firebase configuration in the build. This is now fixed with embedded fallback values.</p>"

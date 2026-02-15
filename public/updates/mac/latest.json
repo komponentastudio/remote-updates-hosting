@@ -1,6 +1,6 @@
 {
   "version": "0.2.2",
   "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.2/Remote-0.2.2-arm64-mac.zip",
-  "releaseDate": "2026-02-15T21:17:33.122Z",
-  "notes": "<p><b>CI/CD Fixes</b></p><ul><li>Fixed release workflow naming (double-v)</li><li>Fixed Windows build configuration</li><li>Fixed cross-platform OTA script paths</li></ul>"
+  "releaseDate": "2026-02-15T22:02:04.624Z",
+  "notes": "<p><b>Critical Fix</b>: App was crashing after OTA update due to missing Firebase configuration in the build. This is now fixed with embedded fallback values.</p>"
 }
