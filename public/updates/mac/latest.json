@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.0/Remote-0.3.0-arm64-mac.zip",
-  "releaseDate": "2026-02-16T09:27:07.241Z",
-  "notes": "<p><b>New Feature</b>: Jester AI Agent! Admins can add the workplace jester \"Šašek\" to any room. Click the waveform button to start -- tell him a topic and he'll deliver a Czech joke with a sitcom laugh track. Appears as a regular participant in calls, lobby sidebar, and room cards.</p>"
+  "version": "0.3.2",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.2/Remote-0.3.2-arm64-mac.zip",
+  "releaseDate": "2026-02-16T22:35:48.783Z",
+  "notes": "<p><b>Critical Fixes</b>: 1to1 calls now work reliably -- declining a call no longer causes the caller to hang, incoming call ring now loops properly, and the AI agent is correctly hidden in private calls. <b>Security</b>: Call invitations hardened against spoofing and hijacking.</p>"
 }

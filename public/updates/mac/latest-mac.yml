@@ -1,13 +1,13 @@
-version: 0.3.0
+version: 0.3.2
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.0/Remote-0.3.0-arm64-mac.zip
-    sha512: 8rBlii28u3Fdh0cTuUd4zunHx07c0dK/5TRuNN9K8R6qS12+Q+Lrs4r9fXIkPPN+frGkTvEfE3qL7keohlxiEg==
-    size: 239411513
-  - url: Remote-0.3.0-arm64.dmg
-    sha512: SS2o20YF5p9tRMyqlo7eSt9f6gsiHhiuT9M0XrKsxmK5YzvcQS64y1mnm+uFJcKZL096BKaecZC3xQLsp2pEZw==
-    size: 248391701
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.0/Remote-0.3.0-arm64-mac.zip
-sha512: 8rBlii28u3Fdh0cTuUd4zunHx07c0dK/5TRuNN9K8R6qS12+Q+Lrs4r9fXIkPPN+frGkTvEfE3qL7keohlxiEg==
-releaseDate: '2026-02-16T09:27:07.053Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.2/Remote-0.3.2-arm64-mac.zip
+    sha512: ZEteS76QT2Ef9FjhKWn6JlLpFmOctAs7m4PY8+xoStoKN72LNA2xEJm+OKPy/mFv/W4UtK1KM/gg0tkZQHXMrw==
+    size: 239415186
+  - url: Remote-0.3.2-arm64.dmg
+    sha512: tM4ts8BDEF2pJ60XN4zsZG8gtwhlDXjtiI8LGKXNmrj1fXFNpNGWkiFMpPqOXdA84+SC/34bClPjSc9Lfu36fA==
+    size: 248380141
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.2/Remote-0.3.2-arm64-mac.zip
+sha512: ZEteS76QT2Ef9FjhKWn6JlLpFmOctAs7m4PY8+xoStoKN72LNA2xEJm+OKPy/mFv/W4UtK1KM/gg0tkZQHXMrw==
+releaseDate: '2026-02-16T22:35:48.599Z'
 
-releaseNotes: "<p><b>New Feature</b>: Jester AI Agent! Admins can add the workplace jester \"Šašek\" to any room. Click the waveform button to start -- tell him a topic and he'll deliver a Czech joke with a sitcom laugh track. Appears as a regular participant in calls, lobby sidebar, and room cards.</p>"
+releaseNotes: "<p><b>Critical Fixes</b>: 1to1 calls now work reliably -- declining a call no longer causes the caller to hang, incoming call ring now loops properly, and the AI agent is correctly hidden in private calls. <b>Security</b>: Call invitations hardened against spoofing and hijacking.</p>"
