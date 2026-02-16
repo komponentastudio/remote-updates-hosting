@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.3/Remote-0.2.3-arm64-mac.zip",
-  "releaseDate": "2026-02-15T22:28:55.006Z",
-  "notes": "<p><b>Fix</b>: GIF reactions now work in production.</p>"
+  "version": "0.3.0",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.0/Remote-0.3.0-arm64-mac.zip",
+  "releaseDate": "2026-02-16T09:27:07.241Z",
+  "notes": "<p><b>New Feature</b>: Jester AI Agent! Admins can add the workplace jester \"Šašek\" to any room. Click the waveform button to start -- tell him a topic and he'll deliver a Czech joke with a sitcom laugh track. Appears as a regular participant in calls, lobby sidebar, and room cards.</p>"
 }

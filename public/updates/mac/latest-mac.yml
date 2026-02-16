@@ -1,13 +1,13 @@
-version: 0.2.3
+version: 0.3.0
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.3/Remote-0.2.3-arm64-mac.zip
-    sha512: gQpWJikcFHd1q7aMwUGLlF6WgkNfM09ut2y6cck1MFq0t8d1wVnz8JXKhwIU82UsC6EeTlzgN3hBVBETr9Fe7w==
-    size: 238189248
-  - url: Remote-0.2.3-arm64.dmg
-    sha512: pfwPoL0UZaP6gYwN6iiRlCIWLX7wq6GGdIUa3F85dSktxqd2JLAHCa0HYldJEVI3P/m++EE5NjPV4zyspGGDWA==
-    size: 247134605
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.2.3/Remote-0.2.3-arm64-mac.zip
-sha512: gQpWJikcFHd1q7aMwUGLlF6WgkNfM09ut2y6cck1MFq0t8d1wVnz8JXKhwIU82UsC6EeTlzgN3hBVBETr9Fe7w==
-releaseDate: '2026-02-15T22:28:54.851Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.0/Remote-0.3.0-arm64-mac.zip
+    sha512: 8rBlii28u3Fdh0cTuUd4zunHx07c0dK/5TRuNN9K8R6qS12+Q+Lrs4r9fXIkPPN+frGkTvEfE3qL7keohlxiEg==
+    size: 239411513
+  - url: Remote-0.3.0-arm64.dmg
+    sha512: SS2o20YF5p9tRMyqlo7eSt9f6gsiHhiuT9M0XrKsxmK5YzvcQS64y1mnm+uFJcKZL096BKaecZC3xQLsp2pEZw==
+    size: 248391701
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.0/Remote-0.3.0-arm64-mac.zip
+sha512: 8rBlii28u3Fdh0cTuUd4zunHx07c0dK/5TRuNN9K8R6qS12+Q+Lrs4r9fXIkPPN+frGkTvEfE3qL7keohlxiEg==
+releaseDate: '2026-02-16T09:27:07.053Z'
 
-releaseNotes: "<p><b>Fix</b>: GIF reactions now work in production.</p>"
+releaseNotes: "<p><b>New Feature</b>: Jester AI Agent! Admins can add the workplace jester \"Šašek\" to any room. Click the waveform button to start -- tell him a topic and he'll deliver a Czech joke with a sitcom laugh track. Appears as a regular participant in calls, lobby sidebar, and room cards.</p>"
