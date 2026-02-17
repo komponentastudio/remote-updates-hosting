@@ -1,13 +1,13 @@
-version: 0.3.2
+version: 0.3.3
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.2/Remote-0.3.2-arm64-mac.zip
-    sha512: ZEteS76QT2Ef9FjhKWn6JlLpFmOctAs7m4PY8+xoStoKN72LNA2xEJm+OKPy/mFv/W4UtK1KM/gg0tkZQHXMrw==
-    size: 239415186
-  - url: Remote-0.3.2-arm64.dmg
-    sha512: tM4ts8BDEF2pJ60XN4zsZG8gtwhlDXjtiI8LGKXNmrj1fXFNpNGWkiFMpPqOXdA84+SC/34bClPjSc9Lfu36fA==
-    size: 248380141
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.2/Remote-0.3.2-arm64-mac.zip
-sha512: ZEteS76QT2Ef9FjhKWn6JlLpFmOctAs7m4PY8+xoStoKN72LNA2xEJm+OKPy/mFv/W4UtK1KM/gg0tkZQHXMrw==
-releaseDate: '2026-02-16T22:35:48.599Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.3/Remote-0.3.3-arm64-mac.zip
+    sha512: xLt0n/eGMs5lpbNzh8rFtFCb9iLLUgRMeMUrlbXf7/Hgrjrt6ilo/DeCv/0mV6NZxCw+dQruuc4AGunSHoE4zw==
+    size: 239415301
+  - url: Remote-0.3.3-arm64.dmg
+    sha512: 2NuP48aTf75POesfUHdB0FNHpGMHg3TbxmPv3hslxxgzAb4jIMC3KasMD5tstLclpQ2l79geaugFf/icvd9cPw==
+    size: 248380051
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.3/Remote-0.3.3-arm64-mac.zip
+sha512: xLt0n/eGMs5lpbNzh8rFtFCb9iLLUgRMeMUrlbXf7/Hgrjrt6ilo/DeCv/0mV6NZxCw+dQruuc4AGunSHoE4zw==
+releaseDate: '2026-02-17T00:11:02.079Z'
 
-releaseNotes: "<p><b>Critical Fixes</b>: 1to1 calls now work reliably -- declining a call no longer causes the caller to hang, incoming call ring now loops properly, and the AI agent is correctly hidden in private calls. <b>Security</b>: Call invitations hardened against spoofing and hijacking.</p>"
+releaseNotes: "<p><b>Fixed</b>: Online status indicator now reliably recovers after network or authentication interruptions. You should no longer see colleagues as offline when they are actually online.</p>"

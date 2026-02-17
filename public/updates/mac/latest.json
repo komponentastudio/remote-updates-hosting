@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.2/Remote-0.3.2-arm64-mac.zip",
-  "releaseDate": "2026-02-16T22:35:48.783Z",
-  "notes": "<p><b>Critical Fixes</b>: 1to1 calls now work reliably -- declining a call no longer causes the caller to hang, incoming call ring now loops properly, and the AI agent is correctly hidden in private calls. <b>Security</b>: Call invitations hardened against spoofing and hijacking.</p>"
+  "version": "0.3.3",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.3/Remote-0.3.3-arm64-mac.zip",
+  "releaseDate": "2026-02-17T00:11:02.258Z",
+  "notes": "<p><b>Fixed</b>: Online status indicator now reliably recovers after network or authentication interruptions. You should no longer see colleagues as offline when they are actually online.</p>"
 }
