@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.4/Remote-0.3.4-arm64-mac.zip",
-  "releaseDate": "2026-02-18T00:32:47.346Z",
-  "notes": "<p><b>Fixed</b>: 1to1 call screen no longer crashes when opening or accepting a call. The media engine selection is now stable and compatible with React's Rules of Hooks.</p>"
+  "version": "0.3.5",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.5/Remote-0.3.5-arm64-mac.zip",
+  "releaseDate": "2026-02-18T23:06:20.710Z",
+  "notes": "<p><b>Developer tooling:</b> All application logs are now unified in the development terminal. Press <b>Cmd+Shift+B</b> to export a diagnostic bundle for bug reports (includes last 10 minutes of technical logs; no personal data).</p>"
 }

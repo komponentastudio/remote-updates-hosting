@@ -1,13 +1,13 @@
-version: 0.3.4
+version: 0.3.5
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.4/Remote-0.3.4-arm64-mac.zip
-    sha512: Kx9vnyMrbnO4jmOrNIeZyTthwsQYOh4y9936uVg24iaf6hGegylRgbJ9m/tJ53FiBIX9cyHDQT1nQrRW5tvdnQ==
-    size: 239415390
-  - url: Remote-0.3.4-arm64.dmg
-    sha512: b1O73wZg1Uljj+1Y8ueyODzW5szhTQFB2j/xYRkJgB8ISK+ewW1Tz60yJbgLDNs6wVVn/9LZmebWOnVA90JKgA==
-    size: 248379667
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.4/Remote-0.3.4-arm64-mac.zip
-sha512: Kx9vnyMrbnO4jmOrNIeZyTthwsQYOh4y9936uVg24iaf6hGegylRgbJ9m/tJ53FiBIX9cyHDQT1nQrRW5tvdnQ==
-releaseDate: '2026-02-18T00:32:47.133Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.5/Remote-0.3.5-arm64-mac.zip
+    sha512: q+TGjAVQxG7sv+fUYMsdXJ0BABpNWFIbVo0fCI/VGfkDw8HXAfextlBddLsmmBTdBjY2jxsAGg+Z1N38iyGMSA==
+    size: 246181021
+  - url: Remote-0.3.5-arm64.dmg
+    sha512: iQcDpBZxUSjz3tCeYm6/yV5fDbrJyg9uDu+MOjxkUrhZj5U01pTOL4E+Je4aQeFpEaz82PZbNWnLvODckod9sg==
+    size: 255516597
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.5/Remote-0.3.5-arm64-mac.zip
+sha512: q+TGjAVQxG7sv+fUYMsdXJ0BABpNWFIbVo0fCI/VGfkDw8HXAfextlBddLsmmBTdBjY2jxsAGg+Z1N38iyGMSA==
+releaseDate: '2026-02-18T23:06:20.517Z'
 
-releaseNotes: "<p><b>Fixed</b>: 1to1 call screen no longer crashes when opening or accepting a call. The media engine selection is now stable and compatible with React's Rules of Hooks.</p>"
+releaseNotes: "<p><b>Developer tooling:</b> All application logs are now unified in the development terminal. Press <b>Cmd+Shift+B</b> to export a diagnostic bundle for bug reports (includes last 10 minutes of technical logs; no personal data).</p>"
