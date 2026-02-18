@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.3/Remote-0.3.3-arm64-mac.zip",
-  "releaseDate": "2026-02-17T00:11:02.258Z",
-  "notes": "<p><b>Fixed</b>: Online status indicator now reliably recovers after network or authentication interruptions. You should no longer see colleagues as offline when they are actually online.</p>"
+  "version": "0.3.4",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.4/Remote-0.3.4-arm64-mac.zip",
+  "releaseDate": "2026-02-18T00:32:47.346Z",
+  "notes": "<p><b>Fixed</b>: 1to1 call screen no longer crashes when opening or accepting a call. The media engine selection is now stable and compatible with React's Rules of Hooks.</p>"
 }

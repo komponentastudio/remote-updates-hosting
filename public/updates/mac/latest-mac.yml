@@ -1,13 +1,13 @@
-version: 0.3.3
+version: 0.3.4
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.3/Remote-0.3.3-arm64-mac.zip
-    sha512: xLt0n/eGMs5lpbNzh8rFtFCb9iLLUgRMeMUrlbXf7/Hgrjrt6ilo/DeCv/0mV6NZxCw+dQruuc4AGunSHoE4zw==
-    size: 239415301
-  - url: Remote-0.3.3-arm64.dmg
-    sha512: 2NuP48aTf75POesfUHdB0FNHpGMHg3TbxmPv3hslxxgzAb4jIMC3KasMD5tstLclpQ2l79geaugFf/icvd9cPw==
-    size: 248380051
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.3/Remote-0.3.3-arm64-mac.zip
-sha512: xLt0n/eGMs5lpbNzh8rFtFCb9iLLUgRMeMUrlbXf7/Hgrjrt6ilo/DeCv/0mV6NZxCw+dQruuc4AGunSHoE4zw==
-releaseDate: '2026-02-17T00:11:02.079Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.4/Remote-0.3.4-arm64-mac.zip
+    sha512: Kx9vnyMrbnO4jmOrNIeZyTthwsQYOh4y9936uVg24iaf6hGegylRgbJ9m/tJ53FiBIX9cyHDQT1nQrRW5tvdnQ==
+    size: 239415390
+  - url: Remote-0.3.4-arm64.dmg
+    sha512: b1O73wZg1Uljj+1Y8ueyODzW5szhTQFB2j/xYRkJgB8ISK+ewW1Tz60yJbgLDNs6wVVn/9LZmebWOnVA90JKgA==
+    size: 248379667
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.4/Remote-0.3.4-arm64-mac.zip
+sha512: Kx9vnyMrbnO4jmOrNIeZyTthwsQYOh4y9936uVg24iaf6hGegylRgbJ9m/tJ53FiBIX9cyHDQT1nQrRW5tvdnQ==
+releaseDate: '2026-02-18T00:32:47.133Z'
 
-releaseNotes: "<p><b>Fixed</b>: Online status indicator now reliably recovers after network or authentication interruptions. You should no longer see colleagues as offline when they are actually online.</p>"
+releaseNotes: "<p><b>Fixed</b>: 1to1 call screen no longer crashes when opening or accepting a call. The media engine selection is now stable and compatible with React's Rules of Hooks.</p>"
