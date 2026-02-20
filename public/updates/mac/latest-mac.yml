@@ -1,13 +1,13 @@
-version: 0.3.5
+version: 0.3.6
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.5/Remote-0.3.5-arm64-mac.zip
-    sha512: q+TGjAVQxG7sv+fUYMsdXJ0BABpNWFIbVo0fCI/VGfkDw8HXAfextlBddLsmmBTdBjY2jxsAGg+Z1N38iyGMSA==
-    size: 246181021
-  - url: Remote-0.3.5-arm64.dmg
-    sha512: iQcDpBZxUSjz3tCeYm6/yV5fDbrJyg9uDu+MOjxkUrhZj5U01pTOL4E+Je4aQeFpEaz82PZbNWnLvODckod9sg==
-    size: 255516597
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.5/Remote-0.3.5-arm64-mac.zip
-sha512: q+TGjAVQxG7sv+fUYMsdXJ0BABpNWFIbVo0fCI/VGfkDw8HXAfextlBddLsmmBTdBjY2jxsAGg+Z1N38iyGMSA==
-releaseDate: '2026-02-18T23:06:20.517Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.6/Remote-0.3.6-arm64-mac.zip
+    sha512: q6iLXakfoaF1/nuydcXgOF2YqATYhdbTIrmCFeM1HkDpChVH4iXKmjkafrDzJLT/75k+oyNrB1XjROgQc6wkCw==
+    size: 246206989
+  - url: Remote-0.3.6-arm64.dmg
+    sha512: EeHnc6BOdkvuosT6OD3piOzrPWtrUWtYa9RZXG90lMFu6ZEG88yundedmFTVJPlSphejHZ11sOWUe0U7wmPI7w==
+    size: 255570344
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.6/Remote-0.3.6-arm64-mac.zip
+sha512: q6iLXakfoaF1/nuydcXgOF2YqATYhdbTIrmCFeM1HkDpChVH4iXKmjkafrDzJLT/75k+oyNrB1XjROgQc6wkCw==
+releaseDate: '2026-02-20T11:03:22.192Z'
 
-releaseNotes: "<p><b>Developer tooling:</b> All application logs are now unified in the development terminal. Press <b>Cmd+Shift+B</b> to export a diagnostic bundle for bug reports (includes last 10 minutes of technical logs; no personal data).</p>"
+releaseNotes: "<p><b>Fixed</b>: 1to1 calls now properly show waiting screens and call actions instead of rapidly opening and closing. Early debug logs accurately report their source window, and background connections are aggressively cleaned up. Production (OTA) builds now report errors to Sentry.</p>"
