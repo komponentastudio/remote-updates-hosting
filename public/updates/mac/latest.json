@@ -1,6 +1,6 @@
 {
-  "version": "0.3.6",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.6/Remote-0.3.6-arm64-mac.zip",
-  "releaseDate": "2026-02-20T11:03:22.359Z",
-  "notes": "<p><b>Fixed</b>: 1to1 calls now properly show waiting screens and call actions instead of rapidly opening and closing. Early debug logs accurately report their source window, and background connections are aggressively cleaned up. Production (OTA) builds now report errors to Sentry.</p>"
+  "version": "0.3.7",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.7/Remote-0.3.7-arm64-mac.zip",
+  "releaseDate": "2026-02-20T11:14:24.926Z",
+  "notes": "<p><b>Observability:</b> Sentry error reporting in production now works correctly; the app no longer logs CSP violations for Sentry.</p>"
 }

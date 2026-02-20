@@ -1,13 +1,13 @@
-version: 0.3.6
+version: 0.3.7
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.6/Remote-0.3.6-arm64-mac.zip
-    sha512: q6iLXakfoaF1/nuydcXgOF2YqATYhdbTIrmCFeM1HkDpChVH4iXKmjkafrDzJLT/75k+oyNrB1XjROgQc6wkCw==
-    size: 246206989
-  - url: Remote-0.3.6-arm64.dmg
-    sha512: EeHnc6BOdkvuosT6OD3piOzrPWtrUWtYa9RZXG90lMFu6ZEG88yundedmFTVJPlSphejHZ11sOWUe0U7wmPI7w==
-    size: 255570344
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.6/Remote-0.3.6-arm64-mac.zip
-sha512: q6iLXakfoaF1/nuydcXgOF2YqATYhdbTIrmCFeM1HkDpChVH4iXKmjkafrDzJLT/75k+oyNrB1XjROgQc6wkCw==
-releaseDate: '2026-02-20T11:03:22.192Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.7/Remote-0.3.7-arm64-mac.zip
+    sha512: subaQo0UbhlvQ69VYEUeGHNSluCaaEtYgVsLuErU0Kf2uxvwRc9dh5X8NJ4Ssv3TBaLnLWM0HH2ULSQZPnBe2Q==
+    size: 246206986
+  - url: Remote-0.3.7-arm64.dmg
+    sha512: zQHnjY6PgqV2pSWqeOePjWnT/O6ZWVQl10v+Qb1JRAI2R5Xb7dulW7uc3Tbastknv9MrnF4BejxYYrr4Oa20Dw==
+    size: 255567875
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.7/Remote-0.3.7-arm64-mac.zip
+sha512: subaQo0UbhlvQ69VYEUeGHNSluCaaEtYgVsLuErU0Kf2uxvwRc9dh5X8NJ4Ssv3TBaLnLWM0HH2ULSQZPnBe2Q==
+releaseDate: '2026-02-20T11:14:24.717Z'
 
-releaseNotes: "<p><b>Fixed</b>: 1to1 calls now properly show waiting screens and call actions instead of rapidly opening and closing. Early debug logs accurately report their source window, and background connections are aggressively cleaned up. Production (OTA) builds now report errors to Sentry.</p>"
+releaseNotes: "<p><b>Observability:</b> Sentry error reporting in production now works correctly; the app no longer logs CSP violations for Sentry.</p>"
