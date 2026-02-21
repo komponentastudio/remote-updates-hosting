@@ -1,13 +1,13 @@
-version: 0.3.12
+version: 0.3.13
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.12/Remote-0.3.12-arm64-mac.zip
-    sha512: AhLukRZqPervwSAzCWw6KI8KXJdRkIpcl27EW3K89fVaPrCfwQG/434zAQlAQBJrNJSPYgL8FBvfaP3ViG+JiQ==
-    size: 246207000
-  - url: Remote-0.3.12-arm64.dmg
-    sha512: nZwODyPxvgyiFZGTpPTxANg6CWrgPX9bMK6YvHhvrD2tT6ZDxx78eC4Cf8O5oTVa8E9l1nW3m9Ug7VCGdhcRlg==
-    size: 255567968
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.12/Remote-0.3.12-arm64-mac.zip
-sha512: AhLukRZqPervwSAzCWw6KI8KXJdRkIpcl27EW3K89fVaPrCfwQG/434zAQlAQBJrNJSPYgL8FBvfaP3ViG+JiQ==
-releaseDate: '2026-02-21T22:53:03.022Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.13/Remote-0.3.13-arm64-mac.zip
+    sha512: CnCY1+1n9CIgggs6zXt+tImsjBfpd9Q94/do1nPd46hp+zg/OiyNt4nRjTsjIo0fGGOmar3AR6+t5nJdTyIycw==
+    size: 246207542
+  - url: Remote-0.3.13-arm64.dmg
+    sha512: 7Yg/N4zyyJmdg/9Hyuo1IBofbYyu34CKQUMHmaexCdl7zyX2rYTZWLZHovezrr2UxQ3D7k7Nl/TpyQbXshh/ow==
+    size: 255563779
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.13/Remote-0.3.13-arm64-mac.zip
+sha512: CnCY1+1n9CIgggs6zXt+tImsjBfpd9Q94/do1nPd46hp+zg/OiyNt4nRjTsjIo0fGGOmar3AR6+t5nJdTyIycw==
+releaseDate: '2026-02-21T23:24:47.001Z'
 
-releaseNotes: "<p><b>Critical Fix:</b> Fixed a crash when entering a room. The call view now starts reliably.</p>"
+releaseNotes: "<p><b>Improved Error Tracking:</b> Call errors are now automatically captured with room context, making it faster to diagnose connection issues.</p>"
