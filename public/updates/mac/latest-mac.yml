@@ -1,13 +1,13 @@
-version: 0.3.10
+version: 0.3.11
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.10/Remote-0.3.10-arm64-mac.zip
-    sha512: 8ZzFXEVc/fAZ8WA01Zz/WR1s0urYXQ2rBt86rfUhhqQ8Yu8sP6KELJExg2NxJaYU6iEchPuBfrkQRgexGY1NMg==
-    size: 246207039
-  - url: Remote-0.3.10-arm64.dmg
-    sha512: tply8rA4Nti6f/LSxTxnYVGkurlrM12BAGLIVCsd14cZGPPwoy+e4hqxh3VKsl/UXQ4KS99O5ski0EMmgTpIbg==
-    size: 255568334
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.10/Remote-0.3.10-arm64-mac.zip
-sha512: 8ZzFXEVc/fAZ8WA01Zz/WR1s0urYXQ2rBt86rfUhhqQ8Yu8sP6KELJExg2NxJaYU6iEchPuBfrkQRgexGY1NMg==
-releaseDate: '2026-02-21T21:53:17.991Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.11/Remote-0.3.11-arm64-mac.zip
+    sha512: BMa2fsnSHqQBCgFpdTV8b7XrP+orEKlvgTJngB8b6cBMoBNRZeeWefX840SE4eg5ZbqMqK/HE221DVcEYXZ6Ng==
+    size: 246207001
+  - url: Remote-0.3.11-arm64.dmg
+    sha512: 1b4RmrQdCvbXX0oaEY3/dic0T/6CN1ShE1hHflZTxXffWoNdVvCk+FT6i3o3HDMfz7rT7SCPoU1srcsBsGgEfQ==
+    size: 255570350
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.11/Remote-0.3.11-arm64-mac.zip
+sha512: BMa2fsnSHqQBCgFpdTV8b7XrP+orEKlvgTJngB8b6cBMoBNRZeeWefX840SE4eg5ZbqMqK/HE221DVcEYXZ6Ng==
+releaseDate: '2026-02-21T22:24:31.907Z'
 
-releaseNotes: "<p><b>CI/OTA:</b> Fixed an issue with the changelog parser that prevented the previous update (v0.3.9) from completing its release process. Temporary disablement of Windows builds allows faster iteration on macOS fixes.</p>"
+releaseNotes: "<p><b>Critical Fix:</b> Resolved an issue that could prevent the app from starting. Sentry error reporting now works reliably across all windows.</p>"
