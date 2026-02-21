@@ -1,6 +1,6 @@
 {
-  "version": "0.3.13",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.13/Remote-0.3.13-arm64-mac.zip",
-  "releaseDate": "2026-02-21T23:24:47.181Z",
-  "notes": "<p><b>Improved Error Tracking:</b> Call errors are now automatically captured with room context, making it faster to diagnose connection issues.</p>"
+  "version": "0.3.14",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.14/Remote-0.3.14-arm64-mac.zip",
+  "releaseDate": "2026-02-21T23:53:47.655Z",
+  "notes": "<p><b>Fixed:</b> Error tracking now works reliably. Noise cancellation (Krisp) should no longer fail due to security policy restrictions.</p>"
 }
