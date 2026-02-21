@@ -1,6 +1,6 @@
 {
-  "version": "0.3.7",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.7/Remote-0.3.7-arm64-mac.zip",
-  "releaseDate": "2026-02-20T11:14:24.926Z",
-  "notes": "<p><b>Observability:</b> Sentry error reporting in production now works correctly; the app no longer logs CSP violations for Sentry.</p>"
+  "version": "0.3.8",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.8/Remote-0.3.8-arm64-mac.zip",
+  "releaseDate": "2026-02-21T21:02:12.722Z",
+  "notes": "<p><b>Observability:</b> Addressed the final blocker for error tracking. Sentry should now fully function and capture crashes and errors from both the main application and all windows.</p>"
 }

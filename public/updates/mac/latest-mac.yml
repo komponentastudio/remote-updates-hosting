@@ -1,13 +1,13 @@
-version: 0.3.7
+version: 0.3.8
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.7/Remote-0.3.7-arm64-mac.zip
-    sha512: subaQo0UbhlvQ69VYEUeGHNSluCaaEtYgVsLuErU0Kf2uxvwRc9dh5X8NJ4Ssv3TBaLnLWM0HH2ULSQZPnBe2Q==
-    size: 246206986
-  - url: Remote-0.3.7-arm64.dmg
-    sha512: zQHnjY6PgqV2pSWqeOePjWnT/O6ZWVQl10v+Qb1JRAI2R5Xb7dulW7uc3Tbastknv9MrnF4BejxYYrr4Oa20Dw==
-    size: 255567875
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.7/Remote-0.3.7-arm64-mac.zip
-sha512: subaQo0UbhlvQ69VYEUeGHNSluCaaEtYgVsLuErU0Kf2uxvwRc9dh5X8NJ4Ssv3TBaLnLWM0HH2ULSQZPnBe2Q==
-releaseDate: '2026-02-20T11:14:24.717Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.8/Remote-0.3.8-arm64-mac.zip
+    sha512: auVFPiFxcwDGTVvnDmhbGGRzML27e0bIbpTGCNzy75wvFHlVJYkj348znRZvnv6XfsowCyXEqEuXYQ6jog3Vqw==
+    size: 246207029
+  - url: Remote-0.3.8-arm64.dmg
+    sha512: JC+WgjtXzlcI9VhDkBNr33iMpE+2BHQEWrK5Bi3JibQU5O8BNAx51d8Yt+4S8kvHriRXRJ8hYB/et079qpscLw==
+    size: 255570318
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.8/Remote-0.3.8-arm64-mac.zip
+sha512: auVFPiFxcwDGTVvnDmhbGGRzML27e0bIbpTGCNzy75wvFHlVJYkj348znRZvnv6XfsowCyXEqEuXYQ6jog3Vqw==
+releaseDate: '2026-02-21T21:02:12.517Z'
 
-releaseNotes: "<p><b>Observability:</b> Sentry error reporting in production now works correctly; the app no longer logs CSP violations for Sentry.</p>"
+releaseNotes: "<p><b>Observability:</b> Addressed the final blocker for error tracking. Sentry should now fully function and capture crashes and errors from both the main application and all windows.</p>"
