@@ -1,13 +1,13 @@
-version: 0.3.14
+version: 0.3.15
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.14/Remote-0.3.14-arm64-mac.zip
-    sha512: 48AliB3lhMeWbv9lgpH6rPpieePzTedY028BnOgNkcT7GxINyQwKPs32JDt8z/g+i4oYlsaZDNVLyr5TUkj2Vg==
-    size: 246207743
-  - url: Remote-0.3.14-arm64.dmg
-    sha512: WlFvg1j5Mn8bMyViqGDxT2LdPeAyuWzHcDkLtMjfHU4HMD4z45DnZTf2dwMvoix6YakTFrwgKjWYb/MRL3GqJQ==
-    size: 255565359
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.14/Remote-0.3.14-arm64-mac.zip
-sha512: 48AliB3lhMeWbv9lgpH6rPpieePzTedY028BnOgNkcT7GxINyQwKPs32JDt8z/g+i4oYlsaZDNVLyr5TUkj2Vg==
-releaseDate: '2026-02-21T23:53:47.491Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.15/Remote-0.3.15-arm64-mac.zip
+    sha512: dNNpdBKY0Phqm7oYEofXoGGTn8cclV6g3Z2zJP/cPwcGWIENVrXuV7Kf1x6VNWuOxyteJlm4S2PdAjmgMxpyDw==
+    size: 246302962
+  - url: Remote-0.3.15-arm64.dmg
+    sha512: 0PHvWfi6d2mr4g2Fm+9HAG+pfVLZ2o5eO+y1j0Ch+fvhqqIQvTC3NNPKqt+wbnfIEsSIlGHxufF8r1Xt8zaXcQ==
+    size: 255667360
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.15/Remote-0.3.15-arm64-mac.zip
+sha512: dNNpdBKY0Phqm7oYEofXoGGTn8cclV6g3Z2zJP/cPwcGWIENVrXuV7Kf1x6VNWuOxyteJlm4S2PdAjmgMxpyDw==
+releaseDate: '2026-02-22T00:12:54.273Z'
 
-releaseNotes: "<p><b>Fixed:</b> Error tracking now works reliably. Noise cancellation (Krisp) should no longer fail due to security policy restrictions.</p>"
+releaseNotes: "<p><b>Critical Fix:</b> Error tracking in the main process now works correctly. Previous versions silently failed to initialize.</p>"
