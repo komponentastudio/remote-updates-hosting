@@ -1,6 +1,6 @@
 {
-  "version": "0.3.15",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.15/Remote-0.3.15-arm64-mac.zip",
-  "releaseDate": "2026-02-22T00:12:54.449Z",
-  "notes": "<p><b>Critical Fix:</b> Error tracking in the main process now works correctly. Previous versions silently failed to initialize.</p>"
+  "version": "0.3.16",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.16/Remote-0.3.16-arm64-mac.zip",
+  "releaseDate": "2026-02-22T01:08:25.224Z",
+  "notes": "<p><b>Fixed:</b> Resolved a startup crash and several permission errors that affected call notifications.</p>"
 }

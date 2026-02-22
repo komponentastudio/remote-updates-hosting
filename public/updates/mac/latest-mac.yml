@@ -1,13 +1,13 @@
-version: 0.3.15
+version: 0.3.16
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.15/Remote-0.3.15-arm64-mac.zip
-    sha512: dNNpdBKY0Phqm7oYEofXoGGTn8cclV6g3Z2zJP/cPwcGWIENVrXuV7Kf1x6VNWuOxyteJlm4S2PdAjmgMxpyDw==
-    size: 246302962
-  - url: Remote-0.3.15-arm64.dmg
-    sha512: 0PHvWfi6d2mr4g2Fm+9HAG+pfVLZ2o5eO+y1j0Ch+fvhqqIQvTC3NNPKqt+wbnfIEsSIlGHxufF8r1Xt8zaXcQ==
-    size: 255667360
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.15/Remote-0.3.15-arm64-mac.zip
-sha512: dNNpdBKY0Phqm7oYEofXoGGTn8cclV6g3Z2zJP/cPwcGWIENVrXuV7Kf1x6VNWuOxyteJlm4S2PdAjmgMxpyDw==
-releaseDate: '2026-02-22T00:12:54.273Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.16/Remote-0.3.16-arm64-mac.zip
+    sha512: ou6pjtSWOMkeoLL2xa4I6pSz5GSncf87XEeXwK/GkFp07Obh8NyE+sxG91dh9Kfob2AWHQWy2pw18vBziCY7Jg==
+    size: 246533357
+  - url: Remote-0.3.16-arm64.dmg
+    sha512: AXucT4+TId91dDPx7/uaCmPXAh7W9B/+YXIkSZMQRA/yPTi3Af79dHVuiN8+3yMATE8bAo5ejKWZqO+Wjb54Ew==
+    size: 255899296
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.16/Remote-0.3.16-arm64-mac.zip
+sha512: ou6pjtSWOMkeoLL2xa4I6pSz5GSncf87XEeXwK/GkFp07Obh8NyE+sxG91dh9Kfob2AWHQWy2pw18vBziCY7Jg==
+releaseDate: '2026-02-22T01:08:25.057Z'
 
-releaseNotes: "<p><b>Critical Fix:</b> Error tracking in the main process now works correctly. Previous versions silently failed to initialize.</p>"
+releaseNotes: "<p><b>Fixed:</b> Resolved a startup crash and several permission errors that affected call notifications.</p>"
