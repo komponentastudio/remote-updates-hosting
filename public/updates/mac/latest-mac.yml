@@ -1,13 +1,13 @@
-version: 0.4.2
+version: 0.5.0
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.2/Remote-0.4.2-arm64-mac.zip
-    sha512: 0bV1FYZ0maLyCyHVYOlIXVu9aR3OT7DK5Atmh77+8XowANNnCQJ7pRx4PQ6hw2TNl/ZHEG1kVADxIySYJ+jnGg==
-    size: 246523118
-  - url: Remote-0.4.2-arm64.dmg
-    sha512: riU7SfwG2z0B0XWQBh1BYxAw0MRQu6LYV6m1yBPTTktDmXrgGUDoACgubHEhELCKyvdEhImf+2ctchmL5HQPKA==
-    size: 255889303
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.2/Remote-0.4.2-arm64-mac.zip
-sha512: 0bV1FYZ0maLyCyHVYOlIXVu9aR3OT7DK5Atmh77+8XowANNnCQJ7pRx4PQ6hw2TNl/ZHEG1kVADxIySYJ+jnGg==
-releaseDate: '2026-02-25T19:15:20.120Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.0/Remote-0.5.0-arm64-mac.zip
+    sha512: htIACfgX4EVnZRK4n8XotXQTWWkqUx0kYgkc25DE4gB/VyLx3talfXOIFoapRXbKO0hkRIH7IrYB46igZAWSzQ==
+    size: 246532244
+  - url: Remote-0.5.0-arm64.dmg
+    sha512: ElPgLrUTIlhTk+TfVpIf5MZouNMg0qjvCklJawSNwa3QFGMkxY1rZ1GMZoFjZe2ojp6qUVlAg+oQUO0c+Cc2KQ==
+    size: 255897622
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.0/Remote-0.5.0-arm64-mac.zip
+sha512: htIACfgX4EVnZRK4n8XotXQTWWkqUx0kYgkc25DE4gB/VyLx3talfXOIFoapRXbKO0hkRIH7IrYB46igZAWSzQ==
+releaseDate: '2026-02-25T23:28:03.550Z'
 
-releaseNotes: "<h3>Fixed</h3><ul><li><b>AI Agent Calls</b>: Calling an AI agent now works -- the agent auto-accepts and joins the call automatically.</li><li><b>Connection Stability</b>: Fixed intermittent permission errors during Firebase token refresh.</li></ul>"
+releaseNotes: "<h3>Teams Overhaul</h3><ul><li><b>Email Invitations</b>: Invite teammates via branded email — they receive a beautiful invitation with your team logo and a one-click join button.</li><li><b>Smooth Team Switching</b>: Switching teams is now instant and smooth — no more black flash.</li><li><b>Admin Controls</b>: New team policies (restrict invites, domain auto-join), leave team, and delete team options in Settings.</li><li><b>Multi-Team Onboarding</b>: New users invited to multiple teams can now choose which to join during setup.</li><li><b>Security</b>: Invitation acceptance is now fully server-side for stronger protection.</li></ul>"
