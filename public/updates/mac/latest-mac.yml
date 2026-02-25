@@ -1,13 +1,13 @@
-version: 0.4.0
+version: 0.4.1
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.0/Remote-0.4.0-arm64-mac.zip
-    sha512: Dn39JXwghHjuqgn4azobGF7JDv2Cj2bxj1eRU3KndmzIHdocB2X3JlZ/UKjQUQZu9eudd0Fw1SDYptm33FbUvw==
-    size: 246522992
-  - url: Remote-0.4.0-arm64.dmg
-    sha512: VWzPPRy1GX4QV9L42gSN3+o+69PcL0xRoq1ISUwxjXIeRJjZAffBqkq6CH7GAUvEJOkFPU3LEEiaO9ZQLdV67A==
-    size: 255888634
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.0/Remote-0.4.0-arm64-mac.zip
-sha512: Dn39JXwghHjuqgn4azobGF7JDv2Cj2bxj1eRU3KndmzIHdocB2X3JlZ/UKjQUQZu9eudd0Fw1SDYptm33FbUvw==
-releaseDate: '2026-02-25T13:05:15.079Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.1/Remote-0.4.1-arm64-mac.zip
+    sha512: zitJpwdG2X1QNbPtqT9IQby82VbTX9KgRdaenbH0STdz6Pjd7hBtaUzgJLLvqvPnH/EGYWOXrQTtkSSm3rWofA==
+    size: 246523003
+  - url: Remote-0.4.1-arm64.dmg
+    sha512: 22ZMCzFv+P8lAH3nAvb2Z1b12gNCszg605nXK7UzZ0CxG7XzJzTo+n8bsFFvoBoEkcg8Mgm0qJihxCA96V3sxw==
+    size: 255887760
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.1/Remote-0.4.1-arm64-mac.zip
+sha512: zitJpwdG2X1QNbPtqT9IQby82VbTX9KgRdaenbH0STdz6Pjd7hBtaUzgJLLvqvPnH/EGYWOXrQTtkSSm3rWofA==
+releaseDate: '2026-02-25T14:49:31.046Z'
 
-releaseNotes: "<h3>What's New</h3><ul><li><b>Unified Media Engine</b>: All calls now use LiveKit SFU for better stability and future AI agent support in 1-to-1 calls.</li><li><b>Smoother Connection UX</b>: Instant loading indicators when users join, reconnect, or disconnect.</li><li><b>Sound Effects</b>: New ambient sounds for participant join/leave, screen sharing, and call events.</li><li><b>Auto-Leave</b>: 1-to-1 calls automatically end when your partner disconnects.</li></ul>"
+releaseNotes: "<h3>Fixed</h3><ul><li><b>1-to-1 Calls</b>: Fixed a critical bug where calls could not connect due to a permissions error during call cleanup.</li><li><b>Notification Sound</b>: Fixed ring sound being cut off before it finished playing.</li></ul><h3>Improved</h3><ul><li><b>Call Button</b>: Greyed out when the person is already in a call.</li><li><b>Bell Sound</b>: Subtle feedback sound when you ring someone's bell.</li><li><b>AI Agent Calls</b>: Admins can now call Bavic directly.</li></ul>"
