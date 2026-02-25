@@ -1,13 +1,13 @@
-version: 0.4.1
+version: 0.4.2
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.1/Remote-0.4.1-arm64-mac.zip
-    sha512: zitJpwdG2X1QNbPtqT9IQby82VbTX9KgRdaenbH0STdz6Pjd7hBtaUzgJLLvqvPnH/EGYWOXrQTtkSSm3rWofA==
-    size: 246523003
-  - url: Remote-0.4.1-arm64.dmg
-    sha512: 22ZMCzFv+P8lAH3nAvb2Z1b12gNCszg605nXK7UzZ0CxG7XzJzTo+n8bsFFvoBoEkcg8Mgm0qJihxCA96V3sxw==
-    size: 255887760
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.1/Remote-0.4.1-arm64-mac.zip
-sha512: zitJpwdG2X1QNbPtqT9IQby82VbTX9KgRdaenbH0STdz6Pjd7hBtaUzgJLLvqvPnH/EGYWOXrQTtkSSm3rWofA==
-releaseDate: '2026-02-25T14:49:31.046Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.2/Remote-0.4.2-arm64-mac.zip
+    sha512: 0bV1FYZ0maLyCyHVYOlIXVu9aR3OT7DK5Atmh77+8XowANNnCQJ7pRx4PQ6hw2TNl/ZHEG1kVADxIySYJ+jnGg==
+    size: 246523118
+  - url: Remote-0.4.2-arm64.dmg
+    sha512: riU7SfwG2z0B0XWQBh1BYxAw0MRQu6LYV6m1yBPTTktDmXrgGUDoACgubHEhELCKyvdEhImf+2ctchmL5HQPKA==
+    size: 255889303
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.4.2/Remote-0.4.2-arm64-mac.zip
+sha512: 0bV1FYZ0maLyCyHVYOlIXVu9aR3OT7DK5Atmh77+8XowANNnCQJ7pRx4PQ6hw2TNl/ZHEG1kVADxIySYJ+jnGg==
+releaseDate: '2026-02-25T19:15:20.120Z'
 
-releaseNotes: "<h3>Fixed</h3><ul><li><b>1-to-1 Calls</b>: Fixed a critical bug where calls could not connect due to a permissions error during call cleanup.</li><li><b>Notification Sound</b>: Fixed ring sound being cut off before it finished playing.</li></ul><h3>Improved</h3><ul><li><b>Call Button</b>: Greyed out when the person is already in a call.</li><li><b>Bell Sound</b>: Subtle feedback sound when you ring someone's bell.</li><li><b>AI Agent Calls</b>: Admins can now call Bavic directly.</li></ul>"
+releaseNotes: "<h3>Fixed</h3><ul><li><b>AI Agent Calls</b>: Calling an AI agent now works -- the agent auto-accepts and joins the call automatically.</li><li><b>Connection Stability</b>: Fixed intermittent permission errors during Firebase token refresh.</li></ul>"
