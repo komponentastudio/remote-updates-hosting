@@ -1,13 +1,13 @@
-version: 0.3.17
+version: 0.3.18
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.17/Remote-0.3.17-arm64-mac.zip
-    sha512: vJceOcN0ZLcdNL2OR/Igfrp+hyKQnjROR/tjf8/KEPVxpdQQUdmDdjTgyAsZSVTaTQyGXyfBBYVcXkyFLsOVuQ==
-    size: 246528976
-  - url: Remote-0.3.17-arm64.dmg
-    sha512: /7pmBfyZLi0XoT8kvh9j/TmPWfmeg29zVZFUECDrrulAW+EK+BmaVQfoO+bec7fhRU8rler3Fy2WaZcg4fNbDA==
-    size: 255931195
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.17/Remote-0.3.17-arm64-mac.zip
-sha512: vJceOcN0ZLcdNL2OR/Igfrp+hyKQnjROR/tjf8/KEPVxpdQQUdmDdjTgyAsZSVTaTQyGXyfBBYVcXkyFLsOVuQ==
-releaseDate: '2026-02-25T09:57:11.127Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.18/Remote-0.3.18-arm64-mac.zip
+    sha512: 9o8ZjvV9MA0pcF4WkEcmcSTErqGZVtWbasx2bLeRwHt0N/XsnFqY9moINd/8frECB5/MpM8MUYs0uvuVDChGOQ==
+    size: 246530716
+  - url: Remote-0.3.18-arm64.dmg
+    sha512: SZRU6xEfqZMDCPDc1yyUx1b8osxxbKX+cATxfNakJkZZzsLmfcAKK/Gg0EbQxEGW3/LaLLYe4m+bGtpQd/f4mA==
+    size: 255929053
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.3.18/Remote-0.3.18-arm64-mac.zip
+sha512: 9o8ZjvV9MA0pcF4WkEcmcSTErqGZVtWbasx2bLeRwHt0N/XsnFqY9moINd/8frECB5/MpM8MUYs0uvuVDChGOQ==
+releaseDate: '2026-02-25T10:04:14.226Z'
 
-releaseNotes: "<h3>Fixed</h3><ul><li><b>1-to-1 Calls</b>: Video and audio connections now work reliably, even behind firewalls.</li><li><b>Call Setup</b>: The \"Waiting...\" animation now shows correctly when calling someone.</li><li><b>Call Connectivity</b>: Fixed an issue where calls could fail to connect in the production app.</li></ul><h3>Improved</h3><ul><li><b>Group Calls</b>: A \"Connecting...\" indicator now appears while other participants' video is loading.</li><li><b>Error Tracking</b>: More detailed error reports are now sent to our monitoring system for faster debugging.</li></ul>"
+releaseNotes: "<h3>Fixed</h3><ul><li><b>1-to-1 Calls</b>: Fixed a critical bug where calls could not connect because signaling messages were incorrectly rejected.</li></ul>"
