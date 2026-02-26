@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.0/Remote-0.5.0-arm64-mac.zip",
-  "releaseDate": "2026-02-25T23:28:03.727Z",
-  "notes": "<h3>Teams Overhaul</h3><ul><li><b>Email Invitations</b>: Invite teammates via branded email — they receive a beautiful invitation with your team logo and a one-click join button.</li><li><b>Smooth Team Switching</b>: Switching teams is now instant and smooth — no more black flash.</li><li><b>Admin Controls</b>: New team policies (restrict invites, domain auto-join), leave team, and delete team options in Settings.</li><li><b>Multi-Team Onboarding</b>: New users invited to multiple teams can now choose which to join during setup.</li><li><b>Security</b>: Invitation acceptance is now fully server-side for stronger protection.</li></ul>"
+  "version": "0.5.1",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.1/Remote-0.5.1-arm64-mac.zip",
+  "releaseDate": "2026-02-26T09:28:06.040Z",
+  "notes": "<h3>Calendar Connect Fixed</h3><p>Clicking \"Connect\" for Google Calendar in Settings or during onboarding now opens the login window when configured, and shows a clear error message if something goes wrong.</p>"
 }
