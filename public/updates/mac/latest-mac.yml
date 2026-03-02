@@ -1,13 +1,13 @@
-version: 0.5.2
+version: 0.5.3
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.2/Remote-0.5.2-arm64-mac.zip
-    sha512: zotAOPUbEtYEAjqy5LsnZkME9sLQSPcm0GcPyEM/PjuHOU1/AQGgOg9NAXz1UixwFYYNd5Q4uPE1C51qQcUdag==
-    size: 247317574
-  - url: Remote-0.5.2-arm64.dmg
-    sha512: DzIQkV+sVSdkFsk5jJ1/vREThF7fsZ5CZXfZDrYfnfX64HdWT9oYPWD1xPlPiGdGCR2zVewAZBsep+i05g1oTQ==
-    size: 257707335
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.2/Remote-0.5.2-arm64-mac.zip
-sha512: zotAOPUbEtYEAjqy5LsnZkME9sLQSPcm0GcPyEM/PjuHOU1/AQGgOg9NAXz1UixwFYYNd5Q4uPE1C51qQcUdag==
-releaseDate: '2026-03-02T09:02:57.808Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.3/Remote-0.5.3-arm64-mac.zip
+    sha512: Y3hOrcZMBAVaXFP5oefT7G8HNld0SwXtB+cCgVpkB31r13A2cg9CbIfoINUwf3M9PO7xe/WPfqiPvcMkRK3wIQ==
+    size: 247318242
+  - url: Remote-0.5.3-arm64.dmg
+    sha512: cB4HRa8TGGX8pNqYC9o52By4mg57eqTXvDehsErHqfZNEi7BYDJz/ZNO9RdUEGD78Mvw9vCSCfdzc+e7R7f2Tg==
+    size: 257714973
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.3/Remote-0.5.3-arm64-mac.zip
+sha512: Y3hOrcZMBAVaXFP5oefT7G8HNld0SwXtB+cCgVpkB31r13A2cg9CbIfoINUwf3M9PO7xe/WPfqiPvcMkRK3wIQ==
+releaseDate: '2026-03-02T15:11:58.096Z'
 
-releaseNotes: "<h3>✨ Call & Chat Improvements</h3><ul><li><b>Declined calls</b>: When someone rejects your call, you now see a clear \"Declined\" indicator — no more guessing.</li><li><b>Camera on join</b>: Camera and microphone now activate reliably when accepting a 1-to-1 call.</li><li><b>Talk to Jester</b>: Click \"Talk\" next to Jester in the sidebar for an instant AI conversation — no ringing, just start talking.</li><li><b>Instant leave</b>: Leaving a call now feels immediate — the lobby appears right away while cleanup happens in the background.</li><li><b>Link previews</b>: Chat link thumbnails stay dismissed — they no longer reappear when rejoining a call.</li><li><b>Image viewer</b>: The close button on image previews now works correctly.</li><li><b>Nudge offline users</b>: You can now send a nudge even when a teammate is offline.</li><li><b>Join room from sidebar</b>: When a teammate is in a group room, the button now shows \"Join\" instead of \"Call\".</li></ul>"
+releaseNotes: "<h3>✨ Call Improvements</h3><ul><li><b>Ringing... in group calls</b>: When you invite someone to a group room, their bubble appears immediately with a \"Ringing...\" shimmer so you know they're being notified.</li><li><b>Declined in group calls</b>: If they decline, their bubble briefly turns red with \"Declined\" — then disappears quietly, without interrupting the ongoing conversation.</li><li><b>Invite from sidebar</b>: While already in a call, the sidebar \"Call\" button becomes \"Invite\" (or \"Add\" for Jester) — tap it to pull someone into your current room without leaving.</li></ul>"
