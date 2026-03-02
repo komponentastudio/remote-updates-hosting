@@ -1,13 +1,13 @@
-version: 0.5.1
+version: 0.5.2
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.1/Remote-0.5.1-arm64-mac.zip
-    sha512: VhwRmipgBiJYgKAtpxS0InMHDx/DRAKIAIEnlobno/KqbGFC2F91TH5cp7YZNSFx/5GUN0QoAF7gJjF+zBu/Kg==
-    size: 246532222
-  - url: Remote-0.5.1-arm64.dmg
-    sha512: COy4f72HHSEQV9K77wIE3MQ0A2c+rGP306q4D6RfQBnN2GCUGXwMzeCg97erJDxqBE4UyP0W9wZ4nqkTVaZ61g==
-    size: 255906204
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.1/Remote-0.5.1-arm64-mac.zip
-sha512: VhwRmipgBiJYgKAtpxS0InMHDx/DRAKIAIEnlobno/KqbGFC2F91TH5cp7YZNSFx/5GUN0QoAF7gJjF+zBu/Kg==
-releaseDate: '2026-02-26T09:28:05.841Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.2/Remote-0.5.2-arm64-mac.zip
+    sha512: zotAOPUbEtYEAjqy5LsnZkME9sLQSPcm0GcPyEM/PjuHOU1/AQGgOg9NAXz1UixwFYYNd5Q4uPE1C51qQcUdag==
+    size: 247317574
+  - url: Remote-0.5.2-arm64.dmg
+    sha512: DzIQkV+sVSdkFsk5jJ1/vREThF7fsZ5CZXfZDrYfnfX64HdWT9oYPWD1xPlPiGdGCR2zVewAZBsep+i05g1oTQ==
+    size: 257707335
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.2/Remote-0.5.2-arm64-mac.zip
+sha512: zotAOPUbEtYEAjqy5LsnZkME9sLQSPcm0GcPyEM/PjuHOU1/AQGgOg9NAXz1UixwFYYNd5Q4uPE1C51qQcUdag==
+releaseDate: '2026-03-02T09:02:57.808Z'
 
-releaseNotes: "<h3>Calendar Connect Fixed</h3><p>Clicking \"Connect\" for Google Calendar in Settings or during onboarding now opens the login window when configured, and shows a clear error message if something goes wrong.</p>"
+releaseNotes: "<h3>✨ Call & Chat Improvements</h3><ul><li><b>Declined calls</b>: When someone rejects your call, you now see a clear \"Declined\" indicator — no more guessing.</li><li><b>Camera on join</b>: Camera and microphone now activate reliably when accepting a 1-to-1 call.</li><li><b>Talk to Jester</b>: Click \"Talk\" next to Jester in the sidebar for an instant AI conversation — no ringing, just start talking.</li><li><b>Instant leave</b>: Leaving a call now feels immediate — the lobby appears right away while cleanup happens in the background.</li><li><b>Link previews</b>: Chat link thumbnails stay dismissed — they no longer reappear when rejoining a call.</li><li><b>Image viewer</b>: The close button on image previews now works correctly.</li><li><b>Nudge offline users</b>: You can now send a nudge even when a teammate is offline.</li><li><b>Join room from sidebar</b>: When a teammate is in a group room, the button now shows \"Join\" instead of \"Call\".</li></ul>"
