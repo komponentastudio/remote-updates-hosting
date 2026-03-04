@@ -1,13 +1,13 @@
-version: 0.5.3
+version: 0.5.4
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.3/Remote-0.5.3-arm64-mac.zip
-    sha512: Y3hOrcZMBAVaXFP5oefT7G8HNld0SwXtB+cCgVpkB31r13A2cg9CbIfoINUwf3M9PO7xe/WPfqiPvcMkRK3wIQ==
-    size: 247318242
-  - url: Remote-0.5.3-arm64.dmg
-    sha512: cB4HRa8TGGX8pNqYC9o52By4mg57eqTXvDehsErHqfZNEi7BYDJz/ZNO9RdUEGD78Mvw9vCSCfdzc+e7R7f2Tg==
-    size: 257714973
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.3/Remote-0.5.3-arm64-mac.zip
-sha512: Y3hOrcZMBAVaXFP5oefT7G8HNld0SwXtB+cCgVpkB31r13A2cg9CbIfoINUwf3M9PO7xe/WPfqiPvcMkRK3wIQ==
-releaseDate: '2026-03-02T15:11:58.096Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.4/Remote-0.5.4-arm64-mac.zip
+    sha512: +k+fN9Z4zVkfCy1BiNfwI7d/CTOxyXamhosywj9a2chNMMrmfQbzxy8wgtONfeHwobA/XY0BqjO+MIwvRrQoSA==
+    size: 247318453
+  - url: Remote-0.5.4-arm64.dmg
+    sha512: Ms6q6gqId5NLXonqpyeBDZ56XztUZWHHtbQZtXaAuFLFS+Sv255hT7l+Lo/UT0cmpZjirUnAg8lbkpLLaPEBZg==
+    size: 257716664
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.4/Remote-0.5.4-arm64-mac.zip
+sha512: +k+fN9Z4zVkfCy1BiNfwI7d/CTOxyXamhosywj9a2chNMMrmfQbzxy8wgtONfeHwobA/XY0BqjO+MIwvRrQoSA==
+releaseDate: '2026-03-04T10:50:28.828Z'
 
-releaseNotes: "<h3>✨ Call Improvements</h3><ul><li><b>Ringing... in group calls</b>: When you invite someone to a group room, their bubble appears immediately with a \"Ringing...\" shimmer so you know they're being notified.</li><li><b>Declined in group calls</b>: If they decline, their bubble briefly turns red with \"Declined\" — then disappears quietly, without interrupting the ongoing conversation.</li><li><b>Invite from sidebar</b>: While already in a call, the sidebar \"Call\" button becomes \"Invite\" (or \"Add\" for Jester) — tap it to pull someone into your current room without leaving.</li></ul>"
+releaseNotes: "<h3>Stability Fix</h3><ul><li><b>Nudges</b>: Fixed a bug where nudge notifications could stop arriving until app restart.</li><li><b>Incoming calls</b>: Fixed a bug where incoming call popups could stop appearing until app restart.</li><li>Both issues were caused by temporary auth state changes during call transitions — the app now automatically recovers.</li></ul>"
