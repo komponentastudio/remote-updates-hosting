@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.4/Remote-0.5.4-arm64-mac.zip",
-  "releaseDate": "2026-03-04T10:50:29.010Z",
-  "notes": "<h3>Stability Fix</h3><ul><li><b>Nudges</b>: Fixed a bug where nudge notifications could stop arriving until app restart.</li><li><b>Incoming calls</b>: Fixed a bug where incoming call popups could stop appearing until app restart.</li><li>Both issues were caused by temporary auth state changes during call transitions — the app now automatically recovers.</li></ul>"
+  "version": "0.5.6",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.6/Remote-0.5.6-arm64-mac.zip",
+  "releaseDate": "2026-03-06T09:17:14.661Z",
+  "notes": "<h3>Screen Share Polish</h3><ul><li><b>Minimized view</b>: When you minimize screen share, a small thumbnail appears in the corner of your bubble so you can still see it — click it to expand again.</li><li><b>Visible buttons</b>: The minimize and fullscreen buttons on the screen share window are now easy to see on any background.</li><li><b>Resize</b>: Drag the corner of the screen share window to make it larger or smaller.</li><li><b>Cursors in bubble mode</b>: When watching someone's screen in bubble mode, you now see their cursor movements.</li></ul>"
 }
