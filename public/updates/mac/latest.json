@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.6/Remote-0.5.6-arm64-mac.zip",
-  "releaseDate": "2026-03-06T09:17:14.661Z",
-  "notes": "<h3>Screen Share Polish</h3><ul><li><b>Minimized view</b>: When you minimize screen share, a small thumbnail appears in the corner of your bubble so you can still see it — click it to expand again.</li><li><b>Visible buttons</b>: The minimize and fullscreen buttons on the screen share window are now easy to see on any background.</li><li><b>Resize</b>: Drag the corner of the screen share window to make it larger or smaller.</li><li><b>Cursors in bubble mode</b>: When watching someone's screen in bubble mode, you now see their cursor movements.</li></ul>"
+  "version": "0.5.7",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.7/Remote-0.5.7-arm64-mac.zip",
+  "releaseDate": "2026-03-13T01:59:23.542Z",
+  "notes": "<h3>Call Stability + Grid Refresh</h3><ul><li><b>No false missed nudges</b>: Ending a normal 1to1 call no longer creates an incorrect missed-call nudge.</li><li><b>Resilient listeners</b>: Lobby and CallView now auto-recover user listeners after temporary auth permission flickers.</li><li><b>Stable Grid tiles</b>: Without screenshare, participant tiles stay stable (no active-speaker jumping).</li><li><b>Screenshare layout</b>: Shared content is now dominant with a fixed right participant strip and overflow counter.</li><li><b>Camera-off visuals</b>: In Grid mode, camera-off tiles now use modern, low-cost theme backgrounds derived from profile images, with adaptive effect reduction for smoother performance.</li><li><b>Active app badge restored</b>: The app indicator is visible again directly inside call bubbles and grid tiles.</li></ul>"
 }
