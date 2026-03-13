@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.7/Remote-0.5.7-arm64-mac.zip",
-  "releaseDate": "2026-03-13T01:59:23.542Z",
-  "notes": "<h3>Call Stability + Grid Refresh</h3><ul><li><b>No false missed nudges</b>: Ending a normal 1to1 call no longer creates an incorrect missed-call nudge.</li><li><b>Resilient listeners</b>: Lobby and CallView now auto-recover user listeners after temporary auth permission flickers.</li><li><b>Stable Grid tiles</b>: Without screenshare, participant tiles stay stable (no active-speaker jumping).</li><li><b>Screenshare layout</b>: Shared content is now dominant with a fixed right participant strip and overflow counter.</li><li><b>Camera-off visuals</b>: In Grid mode, camera-off tiles now use modern, low-cost theme backgrounds derived from profile images, with adaptive effect reduction for smoother performance.</li><li><b>Active app badge restored</b>: The app indicator is visible again directly inside call bubbles and grid tiles.</li></ul>"
+  "version": "0.5.8",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.8/Remote-0.5.8-arm64-mac.zip",
+  "releaseDate": "2026-03-13T10:21:46.229Z",
+  "notes": "<h3>Google Login Fix</h3><ul><li><b>Google sign-in reliability</b>: Fixed a case where browser login finished successfully but the app still showed an unauthorized error.</li><li><b>Smoother auth handoff</b>: OAuth token exchange now uses a safer desktop PKCE flow to avoid client credential mismatches.</li></ul>"
 }

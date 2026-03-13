@@ -1,13 +1,13 @@
-version: 0.5.7
+version: 0.5.8
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.7/Remote-0.5.7-arm64-mac.zip
-    sha512: ZHN1A8Vdbxsr3vlxVQv8ZFBbVTjDwVJHqaVTGi2FPIJd7c42MEMVqry1h41VVAI644yZT3TAEQA9aHvOOAO1DQ==
-    size: 247326630
-  - url: Remote-0.5.7-arm64.dmg
-    sha512: E53u5q5tv+xfD4jACBqOacaH3QY3H4EDPCmpBOCyMKIuBaiVG5EzRD2t9kqyVeLASYN67CQqyk3+eIFPP/+95w==
-    size: 257745742
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.7/Remote-0.5.7-arm64-mac.zip
-sha512: ZHN1A8Vdbxsr3vlxVQv8ZFBbVTjDwVJHqaVTGi2FPIJd7c42MEMVqry1h41VVAI644yZT3TAEQA9aHvOOAO1DQ==
-releaseDate: '2026-03-13T01:59:22.720Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.8/Remote-0.5.8-arm64-mac.zip
+    sha512: O8gitKl0RDGfUWKhq3/+Y13knKlexh9kuDEANC9BXciXRul2WLJHTiBkupvPjzHJiPCPFJgfNECXo0KKZvm6Eg==
+    size: 247326687
+  - url: Remote-0.5.8-arm64.dmg
+    sha512: 7feZ19AIV3BrmBDpj2ui/zn77e12jq1WJs9VdcsXKly/C+AyAQGNgJo1k2Mh9jP2/zELGQ/thIIYfKZ2f7wrLA==
+    size: 257746757
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.8/Remote-0.5.8-arm64-mac.zip
+sha512: O8gitKl0RDGfUWKhq3/+Y13knKlexh9kuDEANC9BXciXRul2WLJHTiBkupvPjzHJiPCPFJgfNECXo0KKZvm6Eg==
+releaseDate: '2026-03-13T10:21:44.698Z'
 
-releaseNotes: "<h3>Call Stability + Grid Refresh</h3><ul><li><b>No false missed nudges</b>: Ending a normal 1to1 call no longer creates an incorrect missed-call nudge.</li><li><b>Resilient listeners</b>: Lobby and CallView now auto-recover user listeners after temporary auth permission flickers.</li><li><b>Stable Grid tiles</b>: Without screenshare, participant tiles stay stable (no active-speaker jumping).</li><li><b>Screenshare layout</b>: Shared content is now dominant with a fixed right participant strip and overflow counter.</li><li><b>Camera-off visuals</b>: In Grid mode, camera-off tiles now use modern, low-cost theme backgrounds derived from profile images, with adaptive effect reduction for smoother performance.</li><li><b>Active app badge restored</b>: The app indicator is visible again directly inside call bubbles and grid tiles.</li></ul>"
+releaseNotes: "<h3>Google Login Fix</h3><ul><li><b>Google sign-in reliability</b>: Fixed a case where browser login finished successfully but the app still showed an unauthorized error.</li><li><b>Smoother auth handoff</b>: OAuth token exchange now uses a safer desktop PKCE flow to avoid client credential mismatches.</li></ul>"
