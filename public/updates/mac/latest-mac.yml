@@ -1,13 +1,13 @@
-version: 0.5.9
+version: 0.5.10
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.9/Remote-0.5.9-arm64-mac.zip
-    sha512: AcFw8MoCsOrhyDnzo2C/sLS5l1pe2LrBG3mR0smcByBCMlLWUe2OM5cEoRs7GeXBTS+pq/i4RDZsoyR7xMIVQA==
-    size: 247326869
-  - url: Remote-0.5.9-arm64.dmg
-    sha512: f56Ys6lzJmicJ7dlIJvaBDFVYnd5dHaIOWmJxplN3uf8mVho71IY/TKfvqfJpPy/sKCUWqWBEK87UMe9iivqcA==
-    size: 257744889
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.9/Remote-0.5.9-arm64-mac.zip
-sha512: AcFw8MoCsOrhyDnzo2C/sLS5l1pe2LrBG3mR0smcByBCMlLWUe2OM5cEoRs7GeXBTS+pq/i4RDZsoyR7xMIVQA==
-releaseDate: '2026-03-13T10:37:21.438Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.10/Remote-0.5.10-arm64-mac.zip
+    sha512: AeZy1L/jmafyfSpOGMfeImUU2XP+UOD8+SYvDoIZXc/QpGrnWx41cNgEHKfCKI5NtQYk6LpPmjHopIRZRsIr5Q==
+    size: 247327481
+  - url: Remote-0.5.10-arm64.dmg
+    sha512: V1WfqKgQDVSIMxHwGVxU1lDDef0aIE3XJlgvf5oiZ+FqEG6oM5AX0MS2kejVgLjt1qSm+UwS3TQpsLIjZTMe4w==
+    size: 257745962
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.10/Remote-0.5.10-arm64-mac.zip
+sha512: AeZy1L/jmafyfSpOGMfeImUU2XP+UOD8+SYvDoIZXc/QpGrnWx41cNgEHKfCKI5NtQYk6LpPmjHopIRZRsIr5Q==
+releaseDate: '2026-03-13T23:48:17.489Z'
 
-releaseNotes: "<h3>Google Sign-In Hotfix</h3><ul><li><b>Login recovery</b>: Fixed an edge case where Google sign-in could fail with <code>client_secret is missing</code>.</li><li><b>Automatic fallback</b>: The app now automatically switches to a working popup login path when system-browser OAuth cannot complete.</li></ul>"
+releaseNotes: "<h3>Authentication Stability Update</h3><ul><li><b>No more login flashes</b>: Fixed a case where the login screen could briefly appear during startup or while entering/leaving calls.</li><li><b>Smoother session handling</b>: Sign-in state now remains stable through transient sync events between app windows.</li><li><b>Reliable sign-out</b>: Manual logout now transitions immediately and predictably.</li><li><b>Google sign-in hardening</b>: Improved error handling and retry behavior for desktop Google authentication.</li></ul>"

@@ -1,6 +1,6 @@
 {
-  "version": "0.5.9",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.9/Remote-0.5.9-arm64-mac.zip",
-  "releaseDate": "2026-03-13T10:37:22.280Z",
-  "notes": "<h3>Google Sign-In Hotfix</h3><ul><li><b>Login recovery</b>: Fixed an edge case where Google sign-in could fail with <code>client_secret is missing</code>.</li><li><b>Automatic fallback</b>: The app now automatically switches to a working popup login path when system-browser OAuth cannot complete.</li></ul>"
+  "version": "0.5.10",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.10/Remote-0.5.10-arm64-mac.zip",
+  "releaseDate": "2026-03-13T23:48:17.845Z",
+  "notes": "<h3>Authentication Stability Update</h3><ul><li><b>No more login flashes</b>: Fixed a case where the login screen could briefly appear during startup or while entering/leaving calls.</li><li><b>Smoother session handling</b>: Sign-in state now remains stable through transient sync events between app windows.</li><li><b>Reliable sign-out</b>: Manual logout now transitions immediately and predictably.</li><li><b>Google sign-in hardening</b>: Improved error handling and retry behavior for desktop Google authentication.</li></ul>"
 }
