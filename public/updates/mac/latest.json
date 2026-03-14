@@ -1,6 +1,6 @@
 {
-  "version": "0.5.10",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.10/Remote-0.5.10-arm64-mac.zip",
-  "releaseDate": "2026-03-13T23:48:17.845Z",
-  "notes": "<h3>Authentication Stability Update</h3><ul><li><b>No more login flashes</b>: Fixed a case where the login screen could briefly appear during startup or while entering/leaving calls.</li><li><b>Smoother session handling</b>: Sign-in state now remains stable through transient sync events between app windows.</li><li><b>Reliable sign-out</b>: Manual logout now transitions immediately and predictably.</li><li><b>Google sign-in hardening</b>: Improved error handling and retry behavior for desktop Google authentication.</li></ul>"
+  "version": "0.5.11",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.11/Remote-0.5.11-arm64-mac.zip",
+  "releaseDate": "2026-03-14T00:12:39.053Z",
+  "notes": "<h3>Google Login Production Hotfix</h3><ul><li><b>Google sign-in restored</b>: Fixed a production issue where Google login could fail with an authorization error.</li><li><b>Credentials alignment</b>: Updated release build configuration so OAuth uses a valid client credential pair.</li></ul>"
 }

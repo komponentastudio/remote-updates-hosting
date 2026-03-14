@@ -1,13 +1,13 @@
-version: 0.5.10
+version: 0.5.11
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.10/Remote-0.5.10-arm64-mac.zip
-    sha512: AeZy1L/jmafyfSpOGMfeImUU2XP+UOD8+SYvDoIZXc/QpGrnWx41cNgEHKfCKI5NtQYk6LpPmjHopIRZRsIr5Q==
-    size: 247327481
-  - url: Remote-0.5.10-arm64.dmg
-    sha512: V1WfqKgQDVSIMxHwGVxU1lDDef0aIE3XJlgvf5oiZ+FqEG6oM5AX0MS2kejVgLjt1qSm+UwS3TQpsLIjZTMe4w==
-    size: 257745962
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.10/Remote-0.5.10-arm64-mac.zip
-sha512: AeZy1L/jmafyfSpOGMfeImUU2XP+UOD8+SYvDoIZXc/QpGrnWx41cNgEHKfCKI5NtQYk6LpPmjHopIRZRsIr5Q==
-releaseDate: '2026-03-13T23:48:17.489Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.11/Remote-0.5.11-arm64-mac.zip
+    sha512: lAVctNQxd9x0LhdIlzOgGS2OG1EA37wbuOluYL620EppzVUtD0RaV2Z890/Cu+XvW/NUQLbHG1mPevlUJQMOkQ==
+    size: 247327168
+  - url: Remote-0.5.11-arm64.dmg
+    sha512: qQX2FCswwoEiW0jeKTCHgKj5gJWWhjJtGh5rxfIq8Kyr3zrn+UC7HJjsxAugbMU8F4nB145YPeohs7O2Ltwftw==
+    size: 257745324
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.11/Remote-0.5.11-arm64-mac.zip
+sha512: lAVctNQxd9x0LhdIlzOgGS2OG1EA37wbuOluYL620EppzVUtD0RaV2Z890/Cu+XvW/NUQLbHG1mPevlUJQMOkQ==
+releaseDate: '2026-03-14T00:12:37.987Z'
 
-releaseNotes: "<h3>Authentication Stability Update</h3><ul><li><b>No more login flashes</b>: Fixed a case where the login screen could briefly appear during startup or while entering/leaving calls.</li><li><b>Smoother session handling</b>: Sign-in state now remains stable through transient sync events between app windows.</li><li><b>Reliable sign-out</b>: Manual logout now transitions immediately and predictably.</li><li><b>Google sign-in hardening</b>: Improved error handling and retry behavior for desktop Google authentication.</li></ul>"
+releaseNotes: "<h3>Google Login Production Hotfix</h3><ul><li><b>Google sign-in restored</b>: Fixed a production issue where Google login could fail with an authorization error.</li><li><b>Credentials alignment</b>: Updated release build configuration so OAuth uses a valid client credential pair.</li></ul>"
