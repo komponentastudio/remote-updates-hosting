@@ -1,6 +1,6 @@
 {
-  "version": "0.5.11",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.11/Remote-0.5.11-arm64-mac.zip",
-  "releaseDate": "2026-03-14T00:12:39.053Z",
-  "notes": "<h3>Google Login Production Hotfix</h3><ul><li><b>Google sign-in restored</b>: Fixed a production issue where Google login could fail with an authorization error.</li><li><b>Credentials alignment</b>: Updated release build configuration so OAuth uses a valid client credential pair.</li></ul>"
+  "version": "0.5.12",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.12/Remote-0.5.12-arm64-mac.zip",
+  "releaseDate": "2026-03-14T00:42:58.463Z",
+  "notes": "<h3>1to1 & Invite Stability Update</h3><ul><li><b>Cleaner call teardown</b>: Closing the call window during ringing now properly clears pending call invites.</li><li><b>More reliable invitation state</b>: Call waiting/declined states now follow a deterministic invitation selection path instead of random snapshot order.</li><li><b>Fewer stuck states</b>: Reduced edge cases where old invite records could keep call UI in an incorrect waiting/preview state.</li></ul>"
 }

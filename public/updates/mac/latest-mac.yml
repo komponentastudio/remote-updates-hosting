@@ -1,13 +1,13 @@
-version: 0.5.11
+version: 0.5.12
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.11/Remote-0.5.11-arm64-mac.zip
-    sha512: lAVctNQxd9x0LhdIlzOgGS2OG1EA37wbuOluYL620EppzVUtD0RaV2Z890/Cu+XvW/NUQLbHG1mPevlUJQMOkQ==
-    size: 247327168
-  - url: Remote-0.5.11-arm64.dmg
-    sha512: qQX2FCswwoEiW0jeKTCHgKj5gJWWhjJtGh5rxfIq8Kyr3zrn+UC7HJjsxAugbMU8F4nB145YPeohs7O2Ltwftw==
-    size: 257745324
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.11/Remote-0.5.11-arm64-mac.zip
-sha512: lAVctNQxd9x0LhdIlzOgGS2OG1EA37wbuOluYL620EppzVUtD0RaV2Z890/Cu+XvW/NUQLbHG1mPevlUJQMOkQ==
-releaseDate: '2026-03-14T00:12:37.987Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.12/Remote-0.5.12-arm64-mac.zip
+    sha512: uA2vxRWn6Q47iqpj7PvxG/7K6Z3QrSu2irc0wk8/Ose4JFWtd+XQOhpff7IrFO36rAf4O4Y2DtPA3txtPn+rQw==
+    size: 247328169
+  - url: Remote-0.5.12-arm64.dmg
+    sha512: b9E4VVEtykqNqByoUds6MVv7aDdWrEizzFIt02zrzYbCadssKbq95qV7X7IzPwsRrsQbvUOgTzP7Rqn4j73WDg==
+    size: 257747106
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.12/Remote-0.5.12-arm64-mac.zip
+sha512: uA2vxRWn6Q47iqpj7PvxG/7K6Z3QrSu2irc0wk8/Ose4JFWtd+XQOhpff7IrFO36rAf4O4Y2DtPA3txtPn+rQw==
+releaseDate: '2026-03-14T00:42:57.574Z'
 
-releaseNotes: "<h3>Google Login Production Hotfix</h3><ul><li><b>Google sign-in restored</b>: Fixed a production issue where Google login could fail with an authorization error.</li><li><b>Credentials alignment</b>: Updated release build configuration so OAuth uses a valid client credential pair.</li></ul>"
+releaseNotes: "<h3>1to1 & Invite Stability Update</h3><ul><li><b>Cleaner call teardown</b>: Closing the call window during ringing now properly clears pending call invites.</li><li><b>More reliable invitation state</b>: Call waiting/declined states now follow a deterministic invitation selection path instead of random snapshot order.</li><li><b>Fewer stuck states</b>: Reduced edge cases where old invite records could keep call UI in an incorrect waiting/preview state.</li></ul>"
