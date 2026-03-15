@@ -1,13 +1,13 @@
-version: 0.5.13
+version: 0.5.14
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.13/Remote-0.5.13-arm64-mac.zip
-    sha512: VjGxifCp/9NALmQMee53IoSNpD3sMGdtEhVgZ+BfWzm9wr7Xxl4u/WIzlFLlcuGXFuigZQ2/bqqdQ4hLSmhSow==
-    size: 247336462
-  - url: Remote-0.5.13-arm64.dmg
-    sha512: DqgDVIIkdObs+welrND3os32F/z+WGx2AN0iRR0S8QGxUyLPFq4zfUSrDul80TvTH6b/vyKq1Hos4Y4Ikjz6zw==
-    size: 257756214
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.13/Remote-0.5.13-arm64-mac.zip
-sha512: VjGxifCp/9NALmQMee53IoSNpD3sMGdtEhVgZ+BfWzm9wr7Xxl4u/WIzlFLlcuGXFuigZQ2/bqqdQ4hLSmhSow==
-releaseDate: '2026-03-15T22:52:39.226Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.14/Remote-0.5.14-arm64-mac.zip
+    sha512: vnJLKdIJ0JVm3zrHd+gojoJ1jC/5XJGubFJbutlRI9xTeUV/SZIHiDkM7AaktgbCd1LMzasFQ4IF/BRAboLaUQ==
+    size: 247334485
+  - url: Remote-0.5.14-arm64.dmg
+    sha512: o97Y22w+ZA4qooOns287L+F/pEN1W4q4pWDIdzC5lN+g72wix09AEj+sD+Ei+2/H0kdHifE7//mI4WcVMMgR9A==
+    size: 257755832
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.14/Remote-0.5.14-arm64-mac.zip
+sha512: vnJLKdIJ0JVm3zrHd+gojoJ1jC/5XJGubFJbutlRI9xTeUV/SZIHiDkM7AaktgbCd1LMzasFQ4IF/BRAboLaUQ==
+releaseDate: '2026-03-15T23:39:44.846Z'
 
-releaseNotes: "<h3>Call & Grid Stability Update</h3><ul><li><b>Cleaner 1to1 transitions</b>: Closing or leaving during ringing now cleans invitation state more reliably.</li><li><b>Grid improvements</b>: With 2 participants, the other side stays dominant while your preview appears as PiP.</li><li><b>Screen-share cursors on correct monitor</b>: Cursor overlay now uses display metadata for more accurate monitor targeting.</li><li><b>Avatar resilience</b>: Temporary profile image load failures now retry once before fallback.</li></ul>"
+releaseNotes: "<h3>Grid PiP Hotfix</h3><ul><li><b>Self-preview placement fixed</b>: Your PiP preview in 2-person Grid view now stays above controls and no longer hides under the toolbar.</li></ul>"
