@@ -1,6 +1,6 @@
 {
-  "version": "0.5.12",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.12/Remote-0.5.12-arm64-mac.zip",
-  "releaseDate": "2026-03-14T00:42:58.463Z",
-  "notes": "<h3>1to1 & Invite Stability Update</h3><ul><li><b>Cleaner call teardown</b>: Closing the call window during ringing now properly clears pending call invites.</li><li><b>More reliable invitation state</b>: Call waiting/declined states now follow a deterministic invitation selection path instead of random snapshot order.</li><li><b>Fewer stuck states</b>: Reduced edge cases where old invite records could keep call UI in an incorrect waiting/preview state.</li></ul>"
+  "version": "0.5.13",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.13/Remote-0.5.13-arm64-mac.zip",
+  "releaseDate": "2026-03-15T22:52:40.170Z",
+  "notes": "<h3>Call & Grid Stability Update</h3><ul><li><b>Cleaner 1to1 transitions</b>: Closing or leaving during ringing now cleans invitation state more reliably.</li><li><b>Grid improvements</b>: With 2 participants, the other side stays dominant while your preview appears as PiP.</li><li><b>Screen-share cursors on correct monitor</b>: Cursor overlay now uses display metadata for more accurate monitor targeting.</li><li><b>Avatar resilience</b>: Temporary profile image load failures now retry once before fallback.</li></ul>"
 }
