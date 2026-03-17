@@ -1,6 +1,6 @@
 {
-  "version": "0.5.14",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.14/Remote-0.5.14-arm64-mac.zip",
-  "releaseDate": "2026-03-15T23:39:45.623Z",
-  "notes": "<h3>Grid PiP Hotfix</h3><ul><li><b>Self-preview placement fixed</b>: Your PiP preview in 2-person Grid view now stays above controls and no longer hides under the toolbar.</li></ul>"
+  "version": "0.5.15",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.15/Remote-0.5.15-arm64-mac.zip",
+  "releaseDate": "2026-03-17T00:36:27.224Z",
+  "notes": "<h3>0.5.15 Consolidated Call & Agent Update</h3><ul><li><b>Media engine modernization</b>: Call media internals are now decomposed into smaller LiveKit-first hooks with an explicit app-layer Room context bridge.</li><li><b>Agent runtime cleanup</b>: Legacy Bavic naming and aliases were removed; runtime is now generic <code>agentId</code> with <b>jester</b> as default.</li><li><b>Smoother agent UX</b>: Agent calls now transition directly to <b>Activating...</b> with improved optimistic behavior and safer session teardown.</li><li><b>Grid & cursor polish</b>: 2-person Grid layout is more balanced and sharer-side cursor projection on shared displays is now supported.</li><li><b>Stability hardening</b>: 1to1 listener retries and agent activation guards reduce stuck call and stale-agent room states.</li></ul>"
 }
