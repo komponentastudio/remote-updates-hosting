@@ -1,13 +1,13 @@
-version: 0.5.16
+version: 0.5.17
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.16/Remote-0.5.16-arm64-mac.zip
-    sha512: 09OpryR6hN0tB8NFrsN7GqpqOZBIN6iTYSBS0P2Lm5w9/4t91YpJtQGyKtglK2I4bsBGNNUBhLTkqmS0G+sWeA==
-    size: 248302854
-  - url: Remote-0.5.16-arm64.dmg
-    sha512: NwnQ0awpI6wuR6/V/C43P13/kKJvUJQ/0dBfS9Jq5mTCxEHK4gEE65Wv1tXuagd2MOG+5HBtDNexpJ5gkgrZvg==
-    size: 258793518
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.16/Remote-0.5.16-arm64-mac.zip
-sha512: 09OpryR6hN0tB8NFrsN7GqpqOZBIN6iTYSBS0P2Lm5w9/4t91YpJtQGyKtglK2I4bsBGNNUBhLTkqmS0G+sWeA==
-releaseDate: '2026-03-27T13:18:22.424Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.17/Remote-0.5.17-arm64-mac.zip
+    sha512: ciAG+0NXO360tZuMwrQLrjI4+n/t40COoReir4CNjII/szeyk7DJQt1aJPhJC8BfazSdW8fe6PtDxgJoA3+Gig==
+    size: 248302860
+  - url: Remote-0.5.17-arm64.dmg
+    sha512: zPhhCvVavehwYHeCLBT0zKO5BiA5fVv/RjIYZLvbqBriPtchBUE4qha4olYD1MEDQpuldpxBZWFp94zioLvoBw==
+    size: 258791741
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.17/Remote-0.5.17-arm64-mac.zip
+sha512: ciAG+0NXO360tZuMwrQLrjI4+n/t40COoReir4CNjII/szeyk7DJQt1aJPhJC8BfazSdW8fe6PtDxgJoA3+Gig==
+releaseDate: '2026-03-27T13:27:57.703Z'
 
-releaseNotes: "<h3>1to1 Call Teardown Hotfix</h3><ul><li><b>Decline now exits cleanly</b>: If the other side declines, you briefly see <b>Declined</b> and the call closes automatically instead of hanging in waiting state.</li><li><b>Nudges clean up correctly</b>: Return calls now clear stale nudge entries, so old call requests do not come back after the call ends.</li><li><b>Stability safeguards</b>: Added extra client and server cleanup protections for invitation race conditions.</li></ul>"
+releaseNotes: "<h3>Call UX & Agent Stability Hotfix</h3><ul><li><b>Bubbles/Grid polish</b>: Camera-off avatar fallback now works in bubbles, panel spacing is tighter, grid labels are cleaner, and decorative grid strokes were removed.</li><li><b>Presence cleanup</b>: Offline users no longer show stale active-app badges.</li><li><b>AI agent reliability</b>: Jester session handling is more stable in group calls and agent state listeners now auto-recover after transient permission issues.</li></ul>"
