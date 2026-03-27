@@ -1,13 +1,13 @@
-version: 0.5.17
+version: 0.5.18
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.17/Remote-0.5.17-arm64-mac.zip
-    sha512: ciAG+0NXO360tZuMwrQLrjI4+n/t40COoReir4CNjII/szeyk7DJQt1aJPhJC8BfazSdW8fe6PtDxgJoA3+Gig==
-    size: 248302860
-  - url: Remote-0.5.17-arm64.dmg
-    sha512: zPhhCvVavehwYHeCLBT0zKO5BiA5fVv/RjIYZLvbqBriPtchBUE4qha4olYD1MEDQpuldpxBZWFp94zioLvoBw==
-    size: 258791741
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.17/Remote-0.5.17-arm64-mac.zip
-sha512: ciAG+0NXO360tZuMwrQLrjI4+n/t40COoReir4CNjII/szeyk7DJQt1aJPhJC8BfazSdW8fe6PtDxgJoA3+Gig==
-releaseDate: '2026-03-27T13:27:57.703Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.18/Remote-0.5.18-arm64-mac.zip
+    sha512: ZQzm++5XxRulNOtKBOniv7tV9VRjKqKfxAHo98gbePW8gJKpkAKU1H9/auqxK9qMaIaCJpW8gkg5LrcxOVc5EA==
+    size: 248323215
+  - url: Remote-0.5.18-arm64.dmg
+    sha512: xcR9PedQ476zGOJ71t3e7tkXpkJVMPuARd56ghnAcfFa3wctaGgvyMtDJUovGdpNVjPTNzZW83EGQD3jQGg8wQ==
+    size: 258790220
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.18/Remote-0.5.18-arm64-mac.zip
+sha512: ZQzm++5XxRulNOtKBOniv7tV9VRjKqKfxAHo98gbePW8gJKpkAKU1H9/auqxK9qMaIaCJpW8gkg5LrcxOVc5EA==
+releaseDate: '2026-03-27T22:32:03.141Z'
 
-releaseNotes: "<h3>Call UX & Agent Stability Hotfix</h3><ul><li><b>Bubbles/Grid polish</b>: Camera-off avatar fallback now works in bubbles, panel spacing is tighter, grid labels are cleaner, and decorative grid strokes were removed.</li><li><b>Presence cleanup</b>: Offline users no longer show stale active-app badges.</li><li><b>AI agent reliability</b>: Jester session handling is more stable in group calls and agent state listeners now auto-recover after transient permission issues.</li></ul>"
+releaseNotes: "<h3>0.5.18 Consolidated Stability & Design System Release</h3><ul><li><b>Call and lobby reliability</b>: Improved window lifecycle handling, listener recovery, and presence rendering in key call flows.</li><li><b>Settings and platform consistency</b>: Better adapter/type consistency across desktop and web-join surfaces.</li><li><b>Design system foundation</b>: Added core token/theme contracts and new documentation for upcoming UI standardization.</li></ul>"

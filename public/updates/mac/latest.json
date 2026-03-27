@@ -1,6 +1,6 @@
 {
-  "version": "0.5.17",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.17/Remote-0.5.17-arm64-mac.zip",
-  "releaseDate": "2026-03-27T13:27:57.917Z",
-  "notes": "<h3>Call UX & Agent Stability Hotfix</h3><ul><li><b>Bubbles/Grid polish</b>: Camera-off avatar fallback now works in bubbles, panel spacing is tighter, grid labels are cleaner, and decorative grid strokes were removed.</li><li><b>Presence cleanup</b>: Offline users no longer show stale active-app badges.</li><li><b>AI agent reliability</b>: Jester session handling is more stable in group calls and agent state listeners now auto-recover after transient permission issues.</li></ul>"
+  "version": "0.5.18",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.18/Remote-0.5.18-arm64-mac.zip",
+  "releaseDate": "2026-03-27T22:32:03.328Z",
+  "notes": "<h3>0.5.18 Consolidated Stability & Design System Release</h3><ul><li><b>Call and lobby reliability</b>: Improved window lifecycle handling, listener recovery, and presence rendering in key call flows.</li><li><b>Settings and platform consistency</b>: Better adapter/type consistency across desktop and web-join surfaces.</li><li><b>Design system foundation</b>: Added core token/theme contracts and new documentation for upcoming UI standardization.</li></ul>"
 }
