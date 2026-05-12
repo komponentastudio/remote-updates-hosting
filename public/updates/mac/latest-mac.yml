@@ -1,13 +1,13 @@
-version: 0.5.18
+version: 0.5.20
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.18/Remote-0.5.18-arm64-mac.zip
-    sha512: ZQzm++5XxRulNOtKBOniv7tV9VRjKqKfxAHo98gbePW8gJKpkAKU1H9/auqxK9qMaIaCJpW8gkg5LrcxOVc5EA==
-    size: 248323215
-  - url: Remote-0.5.18-arm64.dmg
-    sha512: xcR9PedQ476zGOJ71t3e7tkXpkJVMPuARd56ghnAcfFa3wctaGgvyMtDJUovGdpNVjPTNzZW83EGQD3jQGg8wQ==
-    size: 258790220
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.18/Remote-0.5.18-arm64-mac.zip
-sha512: ZQzm++5XxRulNOtKBOniv7tV9VRjKqKfxAHo98gbePW8gJKpkAKU1H9/auqxK9qMaIaCJpW8gkg5LrcxOVc5EA==
-releaseDate: '2026-03-27T22:32:03.141Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.20/Remote-0.5.20-arm64-mac.zip
+    sha512: FVDfrECUxzohNJbPR+B5W6Fdh4Lshxtz+EdKkiTguz4cx9gh0LrmExu0ObUdT9ZlzVi004dsCEh8MBDqVZS82A==
+    size: 264994442
+  - url: Remote-0.5.20-arm64.dmg
+    sha512: lk5mOW1fKuhvfVcFsE+dJxXmKpssr+BptetLFhELHUmZaYc1yE5wNtEGvvGpNx6ufq7Trayq9zruKldA/iT4AQ==
+    size: 275623177
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.20/Remote-0.5.20-arm64-mac.zip
+sha512: FVDfrECUxzohNJbPR+B5W6Fdh4Lshxtz+EdKkiTguz4cx9gh0LrmExu0ObUdT9ZlzVi004dsCEh8MBDqVZS82A==
+releaseDate: '2026-05-12T10:48:43.526Z'
 
-releaseNotes: "<h3>0.5.18 Consolidated Stability & Design System Release</h3><ul><li><b>Call and lobby reliability</b>: Improved window lifecycle handling, listener recovery, and presence rendering in key call flows.</li><li><b>Settings and platform consistency</b>: Better adapter/type consistency across desktop and web-join surfaces.</li><li><b>Design system foundation</b>: Added core token/theme contracts and new documentation for upcoming UI standardization.</li></ul>"
+releaseNotes: "<h3>Branding Refresh</h3><ul><li><b>New app icon</b>: Remote now uses the updated logo symbol for app icon and favicons.</li><li><b>Cleaner login and lobby branding</b>: Desktop login uses the full wordmark and lobby uses the refreshed icon.</li><li><b>Web join consistency</b>: Guest join screens now match desktop branding.</li></ul>"

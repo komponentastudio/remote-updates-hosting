@@ -1,6 +1,6 @@
 {
-  "version": "0.5.18",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.18/Remote-0.5.18-arm64-mac.zip",
-  "releaseDate": "2026-03-27T22:32:03.328Z",
-  "notes": "<h3>0.5.18 Consolidated Stability & Design System Release</h3><ul><li><b>Call and lobby reliability</b>: Improved window lifecycle handling, listener recovery, and presence rendering in key call flows.</li><li><b>Settings and platform consistency</b>: Better adapter/type consistency across desktop and web-join surfaces.</li><li><b>Design system foundation</b>: Added core token/theme contracts and new documentation for upcoming UI standardization.</li></ul>"
+  "version": "0.5.20",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.20/Remote-0.5.20-arm64-mac.zip",
+  "releaseDate": "2026-05-12T10:48:43.747Z",
+  "notes": "<h3>Branding Refresh</h3><ul><li><b>New app icon</b>: Remote now uses the updated logo symbol for app icon and favicons.</li><li><b>Cleaner login and lobby branding</b>: Desktop login uses the full wordmark and lobby uses the refreshed icon.</li><li><b>Web join consistency</b>: Guest join screens now match desktop branding.</li></ul>"
 }
