@@ -1,6 +1,6 @@
 {
-  "version": "0.5.20",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.20/Remote-0.5.20-arm64-mac.zip",
-  "releaseDate": "2026-05-12T10:48:43.747Z",
-  "notes": "<h3>Branding Refresh</h3><ul><li><b>New app icon</b>: Remote now uses the updated logo symbol for app icon and favicons.</li><li><b>Cleaner login and lobby branding</b>: Desktop login uses the full wordmark and lobby uses the refreshed icon.</li><li><b>Web join consistency</b>: Guest join screens now match desktop branding.</li></ul>"
+  "version": "0.5.21",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.21/Remote-0.5.21-arm64-mac.zip",
+  "releaseDate": "2026-05-19T09:36:32.854Z",
+  "notes": "<h3>Login Reliability Fix</h3><ul><li><b>Fixes the stuck loading screen for all sign-in methods</b> (Google, Apple, Microsoft, Email, Magic Link, SSO). New accounts now finish setting up correctly and reach the lobby or onboarding screen.</li><li><b>Clear retry when account setup fails.</b> If the server is unreachable, you now see a friendly retry screen instead of an endless spinner.</li><li><b>Better workspace defaults for Apple Hide My Email and Microsoft live.com accounts</b> — they now correctly get a private workspace instead of a shared domain team.</li></ul>"
 }

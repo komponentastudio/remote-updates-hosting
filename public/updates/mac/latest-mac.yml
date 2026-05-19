@@ -1,13 +1,13 @@
-version: 0.5.20
+version: 0.5.21
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.20/Remote-0.5.20-arm64-mac.zip
-    sha512: FVDfrECUxzohNJbPR+B5W6Fdh4Lshxtz+EdKkiTguz4cx9gh0LrmExu0ObUdT9ZlzVi004dsCEh8MBDqVZS82A==
-    size: 264994442
-  - url: Remote-0.5.20-arm64.dmg
-    sha512: lk5mOW1fKuhvfVcFsE+dJxXmKpssr+BptetLFhELHUmZaYc1yE5wNtEGvvGpNx6ufq7Trayq9zruKldA/iT4AQ==
-    size: 275623177
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.20/Remote-0.5.20-arm64-mac.zip
-sha512: FVDfrECUxzohNJbPR+B5W6Fdh4Lshxtz+EdKkiTguz4cx9gh0LrmExu0ObUdT9ZlzVi004dsCEh8MBDqVZS82A==
-releaseDate: '2026-05-12T10:48:43.526Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.21/Remote-0.5.21-arm64-mac.zip
+    sha512: sapBqQJbXzS5dGkDeIhOAl6AVxoXP+uxyq9ADJau/O5Q4HkrXvXE+zZiQ3JAs4RZx3KkdnuhCgEs/i6FOlkJCg==
+    size: 265007675
+  - url: Remote-0.5.21-arm64.dmg
+    sha512: pbys9JAsEr7Y0ObiV5bMtE4natXvKFyq1XLgoTCM1RliRlow/SYNb24h4PKjELkxtIIVj8EoJecjciC1pgls2w==
+    size: 275657051
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.21/Remote-0.5.21-arm64-mac.zip
+sha512: sapBqQJbXzS5dGkDeIhOAl6AVxoXP+uxyq9ADJau/O5Q4HkrXvXE+zZiQ3JAs4RZx3KkdnuhCgEs/i6FOlkJCg==
+releaseDate: '2026-05-19T09:36:32.652Z'
 
-releaseNotes: "<h3>Branding Refresh</h3><ul><li><b>New app icon</b>: Remote now uses the updated logo symbol for app icon and favicons.</li><li><b>Cleaner login and lobby branding</b>: Desktop login uses the full wordmark and lobby uses the refreshed icon.</li><li><b>Web join consistency</b>: Guest join screens now match desktop branding.</li></ul>"
+releaseNotes: "<h3>Login Reliability Fix</h3><ul><li><b>Fixes the stuck loading screen for all sign-in methods</b> (Google, Apple, Microsoft, Email, Magic Link, SSO). New accounts now finish setting up correctly and reach the lobby or onboarding screen.</li><li><b>Clear retry when account setup fails.</b> If the server is unreachable, you now see a friendly retry screen instead of an endless spinner.</li><li><b>Better workspace defaults for Apple Hide My Email and Microsoft live.com accounts</b> — they now correctly get a private workspace instead of a shared domain team.</li></ul>"
