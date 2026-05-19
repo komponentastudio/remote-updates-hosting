@@ -1,13 +1,13 @@
-version: 0.5.21
+version: 0.5.22
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.21/Remote-0.5.21-arm64-mac.zip
-    sha512: sapBqQJbXzS5dGkDeIhOAl6AVxoXP+uxyq9ADJau/O5Q4HkrXvXE+zZiQ3JAs4RZx3KkdnuhCgEs/i6FOlkJCg==
-    size: 265007675
-  - url: Remote-0.5.21-arm64.dmg
-    sha512: pbys9JAsEr7Y0ObiV5bMtE4natXvKFyq1XLgoTCM1RliRlow/SYNb24h4PKjELkxtIIVj8EoJecjciC1pgls2w==
-    size: 275657051
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.21/Remote-0.5.21-arm64-mac.zip
-sha512: sapBqQJbXzS5dGkDeIhOAl6AVxoXP+uxyq9ADJau/O5Q4HkrXvXE+zZiQ3JAs4RZx3KkdnuhCgEs/i6FOlkJCg==
-releaseDate: '2026-05-19T09:36:32.652Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.22/Remote-0.5.22-arm64-mac.zip
+    sha512: rCGIeYQ2aOMHojCZw+THlko0v7Q4HEiANxwYwr4HzHl18/mE23s1QX2zfRmKO+qBamWQt4gzdWPRuHOVNbHTwg==
+    size: 265007740
+  - url: Remote-0.5.22-arm64.dmg
+    sha512: jBa6jTA6lqGL7ShsQ8UksdYHWmULMPK/8lF4Y0Dn9RwJdeVTujUJM//PmQPzMH28GuFp8JqtrY0+z8XQ/oUyMA==
+    size: 275655462
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.22/Remote-0.5.22-arm64-mac.zip
+sha512: rCGIeYQ2aOMHojCZw+THlko0v7Q4HEiANxwYwr4HzHl18/mE23s1QX2zfRmKO+qBamWQt4gzdWPRuHOVNbHTwg==
+releaseDate: '2026-05-19T10:46:16.816Z'
 
-releaseNotes: "<h3>Login Reliability Fix</h3><ul><li><b>Fixes the stuck loading screen for all sign-in methods</b> (Google, Apple, Microsoft, Email, Magic Link, SSO). New accounts now finish setting up correctly and reach the lobby or onboarding screen.</li><li><b>Clear retry when account setup fails.</b> If the server is unreachable, you now see a friendly retry screen instead of an endless spinner.</li><li><b>Better workspace defaults for Apple Hide My Email and Microsoft live.com accounts</b> — they now correctly get a private workspace instead of a shared domain team.</li></ul>"
+releaseNotes: "<h3>Onboarding Fix for Domain Auto-Join</h3><ul><li><b>Correct welcome screen when joining a team by domain.</b> If your company already has a Remote team, signing in with your work email now shows <b>Welcome to {your team}</b> instead of asking you to create a new one.</li></ul>"
