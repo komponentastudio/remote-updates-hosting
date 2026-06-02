@@ -1,13 +1,13 @@
-version: 0.5.25
+version: 0.5.26
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.25/Remote-0.5.25-arm64-mac.zip
-    sha512: 3FXL3xmfhX9qpr6c6B1xaLRuyBr4Dl0CWRl8444QldGHSdLKT+tn+UmSYkbZ1lIy20gWOhHHcwe9rKJdZDjayQ==
-    size: 264699363
-  - url: Remote-0.5.25-arm64.dmg
-    sha512: xqdspiKjJ4BnwEdbz8qvFFB5fraU2AxYCJXiDgmi4AKSBXs5elfwJ6WQy6L3mrcTDQZYq1hBzNTNKIfBVmmb7A==
-    size: 275336683
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.25/Remote-0.5.25-arm64-mac.zip
-sha512: 3FXL3xmfhX9qpr6c6B1xaLRuyBr4Dl0CWRl8444QldGHSdLKT+tn+UmSYkbZ1lIy20gWOhHHcwe9rKJdZDjayQ==
-releaseDate: '2026-05-25T11:27:13.634Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.26/Remote-0.5.26-arm64-mac.zip
+    sha512: GL+o7JfTWpDuQbXAmD6YwF7teBJKJY7sNxYPheNscKpup7/kyTHMfyj4b6Mj2PIRlI4BNhgEyWtI+OeEezFeLA==
+    size: 264704044
+  - url: Remote-0.5.26-arm64.dmg
+    sha512: UC8zJQwRr9DppDaSuJKdhXL44ZBL7ojbrwOXHSY0obW/ZXqW7H2/coHb4MAjSbcExLeHYJ7UvraQfS8oewV7Pw==
+    size: 275336434
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.26/Remote-0.5.26-arm64-mac.zip
+sha512: GL+o7JfTWpDuQbXAmD6YwF7teBJKJY7sNxYPheNscKpup7/kyTHMfyj4b6Mj2PIRlI4BNhgEyWtI+OeEezFeLA==
+releaseDate: '2026-06-02T21:52:48.216Z'
 
-releaseNotes: "<h3>Call and Settings Fixes + Guest Badge</h3><ul><li><b>Mute indicator visible to everyone.</b> When you mute yourself in a call, the red microphone-slash badge now also appears on your bubble for everyone else (not just you).</li><li><b>Bubble video effect persists.</b> Switching your bubble to black-and-white (or any visual effect) no longer gets reset when you open Settings and click Save.</li><li><b>Calendar connection self-heals.</b> If the calendar session silently expires, the app now clears the stale credentials and prompts you to reconnect, instead of pretending to be connected. Logging out also fully disconnects the calendar.</li><li><b>Guest badge for external members.</b> Team members whose email doesn't match your company domain now get a small <b>Guest</b> badge next to their name in the lobby sidebar and in Settings &rarr; Team Members.</li><li><b>Accurate cursor during full-screen share.</b> When you share your full screen on a Retina or high-DPI display, the cursor your teammates see on your monitor now lines up with their actual pointer instead of drifting away.</li><li><i>Plus internal improvements to the development workflow (no end-user-visible change).</i></li></ul>"
+releaseNotes: "<h3>Call, Screen Share & Presence Fixes</h3><ul><li><b>No more audio echo on screen share.</b> Sharing a screen no longer doubles voices into an echo.</li><li><b>The app no longer gets lost.</b> Switching apps during a full-screen call won't make Remote disappear from the Dock -- click the Dock icon or Cmd-Tab to bring the call back.</li><li><b>Offline teammates look offline.</b> People who are offline no longer show as \"in meeting\" or display calendar/app status.</li><li><b>Accurate shared-screen cursor.</b> The pointer teammates see now lines up with where you're actually pointing, and your own cursor is no longer echoed to viewers.</li><li><b>No stray \"Call ended\" flash.</b> Entering full-screen projection no longer flashes a \"Call ended\" badge.</li><li><b>Take over screen sharing.</b> If someone is already sharing, you can now take over with a quick confirmation instead of asking them to stop first.</li></ul>"
