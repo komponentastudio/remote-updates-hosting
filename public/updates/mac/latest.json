@@ -1,6 +1,6 @@
 {
-  "version": "0.5.27",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.27/Remote-0.5.27-arm64-mac.zip",
-  "releaseDate": "2026-06-03T09:58:09.587Z",
-  "notes": "<h3>Call & Dock Fixes</h3><ul><li><b>The Dock icon stays put during calls.</b> Remote no longer disappears from the Dock while you're on a call, and clicking the Dock icon brings your lobby back instead of leaving it stuck behind the call window.</li><li><b>No more screen-share echo.</b> Sharing a screen no longer doubles remote voices into an echo.</li></ul>"
+  "version": "0.5.28",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.28/Remote-0.5.28-arm64-mac.zip",
+  "releaseDate": "2026-06-03T17:10:13.957Z",
+  "notes": "<h3>Call Crash Fix</h3><ul><li><b>Calls start reliably again.</b> Fixes an \"Application Error\" that could appear when starting or receiving a call in the previous version.</li></ul>"
 }

@@ -1,13 +1,13 @@
-version: 0.5.27
+version: 0.5.28
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.27/Remote-0.5.27-arm64-mac.zip
-    sha512: MFnZcOs42z2yFyUpMzqJFpJQ+3IJxOza5ob32kW6qBWRgGoLTBDrJpBKoTg6Rn7fFmfAxCyQAXoxUxkYgDFayQ==
-    size: 264708165
-  - url: Remote-0.5.27-arm64.dmg
-    sha512: wMxP1rKZ+brkxBIMCPYiH7KKXna2w4h9jcoMkHnlyPVUBRoWKeR+nsGk2bwbIk5mirl/jetyL4DZqWxuxWeyjQ==
-    size: 275299188
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.27/Remote-0.5.27-arm64-mac.zip
-sha512: MFnZcOs42z2yFyUpMzqJFpJQ+3IJxOza5ob32kW6qBWRgGoLTBDrJpBKoTg6Rn7fFmfAxCyQAXoxUxkYgDFayQ==
-releaseDate: '2026-06-03T09:58:09.377Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.28/Remote-0.5.28-arm64-mac.zip
+    sha512: IsN3IEzp2duOpNbKWYHeLPGz0r3/Ad8s0QUGbe1UXCRCTCZMZNF/RdwG+CdspjntaesKt+S4kyhejQx+sw6Eqw==
+    size: 264708066
+  - url: Remote-0.5.28-arm64.dmg
+    sha512: J5Ujy0NsBOg9MrK47D7lekQDZkRKbnBDhy1RtfDRlOgO7c5bDWj6WIWLq8Zbs8RZ2RV6n+23lnLyEyiHPBQrbw==
+    size: 275296472
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.28/Remote-0.5.28-arm64-mac.zip
+sha512: IsN3IEzp2duOpNbKWYHeLPGz0r3/Ad8s0QUGbe1UXCRCTCZMZNF/RdwG+CdspjntaesKt+S4kyhejQx+sw6Eqw==
+releaseDate: '2026-06-03T17:10:13.704Z'
 
-releaseNotes: "<h3>Call & Dock Fixes</h3><ul><li><b>The Dock icon stays put during calls.</b> Remote no longer disappears from the Dock while you're on a call, and clicking the Dock icon brings your lobby back instead of leaving it stuck behind the call window.</li><li><b>No more screen-share echo.</b> Sharing a screen no longer doubles remote voices into an echo.</li></ul>"
+releaseNotes: "<h3>Call Crash Fix</h3><ul><li><b>Calls start reliably again.</b> Fixes an \"Application Error\" that could appear when starting or receiving a call in the previous version.</li></ul>"
