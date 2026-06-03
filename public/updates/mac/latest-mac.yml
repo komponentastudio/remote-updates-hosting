@@ -1,13 +1,13 @@
-version: 0.5.26
+version: 0.5.27
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.26/Remote-0.5.26-arm64-mac.zip
-    sha512: GL+o7JfTWpDuQbXAmD6YwF7teBJKJY7sNxYPheNscKpup7/kyTHMfyj4b6Mj2PIRlI4BNhgEyWtI+OeEezFeLA==
-    size: 264704044
-  - url: Remote-0.5.26-arm64.dmg
-    sha512: UC8zJQwRr9DppDaSuJKdhXL44ZBL7ojbrwOXHSY0obW/ZXqW7H2/coHb4MAjSbcExLeHYJ7UvraQfS8oewV7Pw==
-    size: 275336434
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.26/Remote-0.5.26-arm64-mac.zip
-sha512: GL+o7JfTWpDuQbXAmD6YwF7teBJKJY7sNxYPheNscKpup7/kyTHMfyj4b6Mj2PIRlI4BNhgEyWtI+OeEezFeLA==
-releaseDate: '2026-06-02T21:52:48.216Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.27/Remote-0.5.27-arm64-mac.zip
+    sha512: MFnZcOs42z2yFyUpMzqJFpJQ+3IJxOza5ob32kW6qBWRgGoLTBDrJpBKoTg6Rn7fFmfAxCyQAXoxUxkYgDFayQ==
+    size: 264708165
+  - url: Remote-0.5.27-arm64.dmg
+    sha512: wMxP1rKZ+brkxBIMCPYiH7KKXna2w4h9jcoMkHnlyPVUBRoWKeR+nsGk2bwbIk5mirl/jetyL4DZqWxuxWeyjQ==
+    size: 275299188
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.27/Remote-0.5.27-arm64-mac.zip
+sha512: MFnZcOs42z2yFyUpMzqJFpJQ+3IJxOza5ob32kW6qBWRgGoLTBDrJpBKoTg6Rn7fFmfAxCyQAXoxUxkYgDFayQ==
+releaseDate: '2026-06-03T09:58:09.377Z'
 
-releaseNotes: "<h3>Call, Screen Share & Presence Fixes</h3><ul><li><b>No more audio echo on screen share.</b> Sharing a screen no longer doubles voices into an echo.</li><li><b>The app no longer gets lost.</b> Switching apps during a full-screen call won't make Remote disappear from the Dock -- click the Dock icon or Cmd-Tab to bring the call back.</li><li><b>Offline teammates look offline.</b> People who are offline no longer show as \"in meeting\" or display calendar/app status.</li><li><b>Accurate shared-screen cursor.</b> The pointer teammates see now lines up with where you're actually pointing, and your own cursor is no longer echoed to viewers.</li><li><b>No stray \"Call ended\" flash.</b> Entering full-screen projection no longer flashes a \"Call ended\" badge.</li><li><b>Take over screen sharing.</b> If someone is already sharing, you can now take over with a quick confirmation instead of asking them to stop first.</li></ul>"
+releaseNotes: "<h3>Call & Dock Fixes</h3><ul><li><b>The Dock icon stays put during calls.</b> Remote no longer disappears from the Dock while you're on a call, and clicking the Dock icon brings your lobby back instead of leaving it stuck behind the call window.</li><li><b>No more screen-share echo.</b> Sharing a screen no longer doubles remote voices into an echo.</li></ul>"
