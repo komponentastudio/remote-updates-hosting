@@ -1,13 +1,13 @@
-version: 0.6.3
+version: 0.6.4
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.3/Remote-0.6.3-arm64-mac.zip
-    sha512: 2jPedzQPph1xguwUEseAXqNsyy2UU3d8ib+yJAKu9rojKygb4clwHEuHSRxscnV7F6NebEncHovfbL1m3O06kQ==
-    size: 264709700
-  - url: Remote-0.6.3-arm64.dmg
-    sha512: aXt9hUOf3lWMJlmOSbZLc3YqErQAQ8OQFYcDWxld7Bb9Sl8OZNUeuwFyJzEG91hi80/TiDsseOP0Z7bEbF6NWA==
-    size: 275315455
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.3/Remote-0.6.3-arm64-mac.zip
-sha512: 2jPedzQPph1xguwUEseAXqNsyy2UU3d8ib+yJAKu9rojKygb4clwHEuHSRxscnV7F6NebEncHovfbL1m3O06kQ==
-releaseDate: '2026-11-25T11:38:11.682Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.4/Remote-0.6.4-arm64-mac.zip
+    sha512: xRCGpc1MZZQXazEPhAUzMWGtKyk6VTp2lAqW8t9v30sG8ySEFnJ33/hGQvjfQh7psVPfCQeYYfCemafdlA4lLA==
+    size: 264707654
+  - url: Remote-0.6.4-arm64.dmg
+    sha512: XQ4HSyhHqiAkoWW9P5SKWhg7JXLB7FgjMZiCjBup5XsPNIDO8sPhP2C9XajClW2m5yzCV4h8Dg88RK1GT2Ph2Q==
+    size: 275307901
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.4/Remote-0.6.4-arm64-mac.zip
+sha512: xRCGpc1MZZQXazEPhAUzMWGtKyk6VTp2lAqW8t9v30sG8ySEFnJ33/hGQvjfQh7psVPfCQeYYfCemafdlA4lLA==
+releaseDate: '2026-11-25T13:39:18.165Z'
 
-releaseNotes: "<h3>Lobby conversations</h3><ul><li>Find call and message actions together on a teammate’s row.</li><li>Use the same chat interface in the lobby and during calls.</li><li>See connection and delivery status while messaging a teammate.</li></ul>"
+releaseNotes: "<h3>Private chat history</h3><ul><li>Read and send messages in the same conversation from the lobby or a two-person call.</li><li>See earlier messages, links and images from eligible private call rooms.</li><li>Calls with additional participants have a separate room chat.</li></ul>"
