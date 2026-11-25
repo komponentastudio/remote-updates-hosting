@@ -1,6 +1,6 @@
 {
-  "version": "0.5.28",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.5.28/Remote-0.5.28-arm64-mac.zip",
-  "releaseDate": "2026-06-03T17:10:13.957Z",
-  "notes": "<h3>Call Crash Fix</h3><ul><li><b>Calls start reliably again.</b> Fixes an \"Application Error\" that could appear when starting or receiving a call in the previous version.</li></ul>"
+  "version": "0.6.2",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.2/Remote-0.6.2-arm64-mac.zip",
+  "releaseDate": "2026-11-25T11:00:37.621Z",
+  "notes": "<h3>Lobby messages and screen sharing</h3><ul><li>Open a private conversation from a teammate's lobby row.</li><li>Screen sharing fits the whole image and plays shared system sound once on desktop.</li><li>Remote uses a lighter foreground-app check on macOS.</li></ul>"
 }
