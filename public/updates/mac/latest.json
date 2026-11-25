@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.2/Remote-0.6.2-arm64-mac.zip",
-  "releaseDate": "2026-11-25T11:00:37.621Z",
-  "notes": "<h3>Lobby messages and screen sharing</h3><ul><li>Open a private conversation from a teammate's lobby row.</li><li>Screen sharing fits the whole image and plays shared system sound once on desktop.</li><li>Remote uses a lighter foreground-app check on macOS.</li></ul>"
+  "version": "0.6.3",
+  "url": "https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.3/Remote-0.6.3-arm64-mac.zip",
+  "releaseDate": "2026-11-25T11:38:11.925Z",
+  "notes": "<h3>Lobby conversations</h3><ul><li>Find call and message actions together on a teammate’s row.</li><li>Use the same chat interface in the lobby and during calls.</li><li>See connection and delivery status while messaging a teammate.</li></ul>"
 }

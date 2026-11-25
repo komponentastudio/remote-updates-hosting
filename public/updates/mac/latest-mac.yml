@@ -1,13 +1,13 @@
-version: 0.6.2
+version: 0.6.3
 files:
-  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.2/Remote-0.6.2-arm64-mac.zip
-    sha512: ppMje4pdkSQUBRIpVRWemXgcRuLA6XxtrZkgbuu24I7jxTjrS6k+ugu90J9Wymg8zLRBa0JV1aR/mQa7q3uxxA==
-    size: 264707067
-  - url: Remote-0.6.2-arm64.dmg
-    sha512: ySh61KKO956t7g9KdcEKwJILISE3DaNNOM89W+E0xx/yQ3RrjSDlkwZ6EyBp6YbAj0qyIl2uaCz7wb2mbdnMSg==
-    size: 275320896
-path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.2/Remote-0.6.2-arm64-mac.zip
-sha512: ppMje4pdkSQUBRIpVRWemXgcRuLA6XxtrZkgbuu24I7jxTjrS6k+ugu90J9Wymg8zLRBa0JV1aR/mQa7q3uxxA==
-releaseDate: '2026-11-25T11:00:36.706Z'
+  - url: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.3/Remote-0.6.3-arm64-mac.zip
+    sha512: 2jPedzQPph1xguwUEseAXqNsyy2UU3d8ib+yJAKu9rojKygb4clwHEuHSRxscnV7F6NebEncHovfbL1m3O06kQ==
+    size: 264709700
+  - url: Remote-0.6.3-arm64.dmg
+    sha512: aXt9hUOf3lWMJlmOSbZLc3YqErQAQ8OQFYcDWxld7Bb9Sl8OZNUeuwFyJzEG91hi80/TiDsseOP0Z7bEbF6NWA==
+    size: 275315455
+path: https://github.com/komponentastudio/remote-updates-hosting/releases/download/v0.6.3/Remote-0.6.3-arm64-mac.zip
+sha512: 2jPedzQPph1xguwUEseAXqNsyy2UU3d8ib+yJAKu9rojKygb4clwHEuHSRxscnV7F6NebEncHovfbL1m3O06kQ==
+releaseDate: '2026-11-25T11:38:11.682Z'
 
-releaseNotes: "<h3>Lobby messages and screen sharing</h3><ul><li>Open a private conversation from a teammate's lobby row.</li><li>Screen sharing fits the whole image and plays shared system sound once on desktop.</li><li>Remote uses a lighter foreground-app check on macOS.</li></ul>"
+releaseNotes: "<h3>Lobby conversations</h3><ul><li>Find call and message actions together on a teammate’s row.</li><li>Use the same chat interface in the lobby and during calls.</li><li>See connection and delivery status while messaging a teammate.</li></ul>"
